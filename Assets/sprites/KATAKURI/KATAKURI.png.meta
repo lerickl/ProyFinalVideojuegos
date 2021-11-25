@@ -1,0 +1,3807 @@
+fileFormatVersion: 2
+guid: 635ec43b83ed8c04d82400ef3230a209
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8108621547169736255
+    second: KATAKURI_0
+  - first:
+      213: 3734043010567381889
+    second: KATAKURI_1
+  - first:
+      213: -716822825379628313
+    second: KATAKURI_2
+  - first:
+      213: -3613014166527507678
+    second: KATAKURI_3
+  - first:
+      213: -8349259617335876339
+    second: KATAKURI_4
+  - first:
+      213: -5039387951683704189
+    second: KATAKURI_5
+  - first:
+      213: -1901570504423276313
+    second: KATAKURI_6
+  - first:
+      213: 8214835205039248731
+    second: KATAKURI_7
+  - first:
+      213: -995174064383735232
+    second: KATAKURI_8
+  - first:
+      213: 5680084003932339019
+    second: KATAKURI_9
+  - first:
+      213: -4493915144411601204
+    second: KATAKURI_10
+  - first:
+      213: 7696993447893293834
+    second: KATAKURI_11
+  - first:
+      213: 8863765080074868013
+    second: KATAKURI_12
+  - first:
+      213: 4401347079316321684
+    second: KATAKURI_13
+  - first:
+      213: 6755163658555316628
+    second: KATAKURI_14
+  - first:
+      213: 663659204440546622
+    second: KATAKURI_15
+  - first:
+      213: -106183460621229039
+    second: KATAKURI_16
+  - first:
+      213: -572593264488031163
+    second: KATAKURI_17
+  - first:
+      213: 5938101324371731129
+    second: KATAKURI_18
+  - first:
+      213: -6675033911569705693
+    second: KATAKURI_19
+  - first:
+      213: 4623201290475423067
+    second: KATAKURI_20
+  - first:
+      213: -1607795478002319626
+    second: KATAKURI_21
+  - first:
+      213: 3580250097048216552
+    second: KATAKURI_22
+  - first:
+      213: -8773490191207322311
+    second: KATAKURI_23
+  - first:
+      213: -4945872810225434905
+    second: KATAKURI_24
+  - first:
+      213: 6306405332355360924
+    second: KATAKURI_25
+  - first:
+      213: 3787313282878660432
+    second: KATAKURI_26
+  - first:
+      213: 2918086773530731480
+    second: KATAKURI_27
+  - first:
+      213: -394623433681292516
+    second: KATAKURI_28
+  - first:
+      213: 6758710031815401797
+    second: KATAKURI_29
+  - first:
+      213: -3225692214366141831
+    second: KATAKURI_30
+  - first:
+      213: -2530910297707086266
+    second: KATAKURI_34
+  - first:
+      213: 9138719741468715145
+    second: KATAKURI_35
+  - first:
+      213: 1733297434571639577
+    second: KATAKURI_43
+  - first:
+      213: -8549952898909416809
+    second: KATAKURI_44
+  - first:
+      213: -5806023720648786750
+    second: KATAKURI_66
+  - first:
+      213: -6731840347704006136
+    second: KATAKURI_67
+  - first:
+      213: -1446610554295597236
+    second: KATAKURI_68
+  - first:
+      213: 1964644196181516485
+    second: KATAKURI_69
+  - first:
+      213: -8675470759258518020
+    second: KATAKURI_82
+  - first:
+      213: -6301175631345664094
+    second: KATAKURI_71
+  - first:
+      213: 5471299554324434785
+    second: KATAKURI_72
+  - first:
+      213: 8421918689286007233
+    second: KATAKURI_73
+  - first:
+      213: -8220807672340346434
+    second: KATAKURI_84
+  - first:
+      213: 3821989978571017991
+    second: KATAKURI_75
+  - first:
+      213: 7748364244781915381
+    second: KATAKURI_76
+  - first:
+      213: 699852475501696225
+    second: KATAKURI_77
+  - first:
+      213: -77555813570469915
+    second: KATAKURI_78
+  - first:
+      213: -4119540052694727838
+    second: KATAKURI_81
+  - first:
+      213: -1537739179502086139
+    second: KATAKURI_80
+  - first:
+      213: 3917350580955450507
+    second: KATAKURI_81
+  - first:
+      213: -2592311618823382206
+    second: KATAKURI_82
+  - first:
+      213: 4730301020752682501
+    second: KATAKURI_83
+  - first:
+      213: -2817501258127063743
+    second: KATAKURI_84
+  - first:
+      213: -518480465961147093
+    second: KATAKURI_85
+  - first:
+      213: 2116118720498876364
+    second: KATAKURI_86
+  - first:
+      213: -1604122837592503953
+    second: KATAKURI_87
+  - first:
+      213: 2326460826385126508
+    second: KATAKURI_88
+  - first:
+      213: 5549771611600764700
+    second: KATAKURI_89
+  - first:
+      213: -5113397128531219642
+    second: KATAKURI_90
+  - first:
+      213: -3099567954376910621
+    second: KATAKURI_91
+  - first:
+      213: 2586549823513281080
+    second: KATAKURI_92
+  - first:
+      213: 2350537042273647078
+    second: KATAKURI_93
+  - first:
+      213: 6009919943698989499
+    second: KATAKURI_94
+  - first:
+      213: -3783333520621088943
+    second: KATAKURI_95
+  - first:
+      213: 6587866230326014230
+    second: KATAKURI_96
+  - first:
+      213: 3250270349928561255
+    second: KATAKURI_97
+  - first:
+      213: -8448608590948113630
+    second: KATAKURI_98
+  - first:
+      213: 792094283410194155
+    second: KATAKURI_99
+  - first:
+      213: -5654853862166761178
+    second: KATAKURI_100
+  - first:
+      213: 663508989101176650
+    second: KATAKURI_101
+  - first:
+      213: 7847445559446672141
+    second: KATAKURI_102
+  - first:
+      213: -1276517690929283111
+    second: KATAKURI_103
+  - first:
+      213: 7114080429269717240
+    second: KATAKURI_104
+  - first:
+      213: -7844905231576598591
+    second: KATAKURI_105
+  - first:
+      213: 8017952394967607947
+    second: KATAKURI_106
+  - first:
+      213: 633767818797061914
+    second: KATAKURI_107
+  - first:
+      213: -419305639031251484
+    second: KATAKURI_108
+  - first:
+      213: -7468358944886383296
+    second: KATAKURI_109
+  - first:
+      213: 7129009424402511988
+    second: KATAKURI_110
+  - first:
+      213: -2128998450142194156
+    second: KATAKURI_111
+  - first:
+      213: -6976256560418797686
+    second: KATAKURI_112
+  - first:
+      213: 1034775820947036608
+    second: KATAKURI_113
+  - first:
+      213: 8207688160461904371
+    second: KATAKURI_114
+  - first:
+      213: -2868454844981771997
+    second: KATAKURI_115
+  - first:
+      213: -6249573049932533618
+    second: KATAKURI_116
+  - first:
+      213: -4680833888951791958
+    second: KATAKURI_117
+  - first:
+      213: -620672547132352764
+    second: KATAKURI_118
+  - first:
+      213: -3284326610303584293
+    second: KATAKURI_119
+  - first:
+      213: -456633237010801881
+    second: KATAKURI_120
+  - first:
+      213: 5513256204481346327
+    second: KATAKURI_121
+  - first:
+      213: -4308578087400780106
+    second: KATAKURI_122
+  - first:
+      213: -4468095008368837309
+    second: KATAKURI_123
+  - first:
+      213: 6485495735491730316
+    second: KATAKURI_124
+  - first:
+      213: -5873208634702077593
+    second: KATAKURI_125
+  - first:
+      213: -7705394138797845400
+    second: KATAKURI_126
+  - first:
+      213: 5911174522301325697
+    second: KATAKURI_127
+  - first:
+      213: -1617724397478071371
+    second: KATAKURI_128
+  - first:
+      213: -8295714201426971875
+    second: KATAKURI_129
+  - first:
+      213: -935185593508490899
+    second: KATAKURI_130
+  - first:
+      213: 6925657725667349586
+    second: KATAKURI_131
+  - first:
+      213: -2954853392539370733
+    second: KATAKURI_132
+  - first:
+      213: 1213062656372309084
+    second: KATAKURI_133
+  - first:
+      213: -5445144128845269664
+    second: KATAKURI_134
+  - first:
+      213: 6149529436646998282
+    second: KATAKURI_135
+  - first:
+      213: 3665272065249830902
+    second: KATAKURI_136
+  - first:
+      213: -252533099609127036
+    second: KATAKURI_137
+  - first:
+      213: 2564250386648024984
+    second: KATAKURI_138
+  - first:
+      213: 1521704058546548474
+    second: KATAKURI_139
+  - first:
+      213: 4349279916096081022
+    second: KATAKURI_140
+  - first:
+      213: 8226313134389166559
+    second: KATAKURI_141
+  - first:
+      213: -7544270893625777843
+    second: KATAKURI_142
+  - first:
+      213: -997294333401657194
+    second: KATAKURI_143
+  - first:
+      213: -6770292784487455749
+    second: KATAKURI_144
+  - first:
+      213: -3838798547615013272
+    second: KATAKURI_145
+  - first:
+      213: 156010166585611492
+    second: KATAKURI_146
+  - first:
+      213: 6348804495217608117
+    second: KATAKURI_147
+  - first:
+      213: 5027349801448454793
+    second: KATAKURI_148
+  - first:
+      213: -4795253332968830299
+    second: KATAKURI_149
+  - first:
+      213: -1049321786240860062
+    second: KATAKURI_150
+  - first:
+      213: 6411983021415588177
+    second: KATAKURI_151
+  - first:
+      213: -9205197233502306522
+    second: KATAKURI_152
+  - first:
+      213: 3734984258700222461
+    second: KATAKURI_153
+  - first:
+      213: 6941992375921489174
+    second: KATAKURI_154
+  - first:
+      213: -7525209230977637818
+    second: KATAKURI_155
+  - first:
+      213: 4775780532155385955
+    second: KATAKURI_156
+  - first:
+      213: -1969561301393786980
+    second: KATAKURI_157
+  - first:
+      213: 8546405959775279680
+    second: KATAKURI_158
+  - first:
+      213: 3033829586761758295
+    second: KATAKURI_159
+  - first:
+      213: 5185239012064904873
+    second: KATAKURI_160
+  - first:
+      213: -7089433384624231
+    second: KATAKURI_161
+  - first:
+      213: -6296111075468650945
+    second: KATAKURI_162
+  - first:
+      213: -9119748775442845153
+    second: KATAKURI_163
+  - first:
+      213: -843289589791774393
+    second: KATAKURI_164
+  - first:
+      213: 5674807403535790564
+    second: KATAKURI_165
+  - first:
+      213: -6391508274882866677
+    second: KATAKURI_166
+  - first:
+      213: -8328759899302237779
+    second: KATAKURI_167
+  - first:
+      213: -4748732619266070112
+    second: KATAKURI_168
+  - first:
+      213: -3311636199799802253
+    second: KATAKURI_169
+  - first:
+      213: -3300187460597112101
+    second: KATAKURI_170
+  - first:
+      213: -2060552658191473042
+    second: KATAKURI_171
+  - first:
+      213: -3140070198025063099
+    second: KATAKURI_172
+  - first:
+      213: -1087591389511145910
+    second: KATAKURI_173
+  - first:
+      213: 1522405949490975075
+    second: KATAKURI_174
+  - first:
+      213: -1281044849649613249
+    second: KATAKURI_175
+  - first:
+      213: -6985165531509902763
+    second: KATAKURI_176
+  - first:
+      213: 7076877876809304852
+    second: KATAKURI_177
+  - first:
+      213: -7144669586842767733
+    second: KATAKURI_178
+  - first:
+      213: 3481860941200924838
+    second: KATAKURI_179
+  - first:
+      213: -7673823196219311598
+    second: KATAKURI_180
+  - first:
+      213: -4705515906865945512
+    second: KATAKURI_181
+  - first:
+      213: 7941986375156884235
+    second: KATAKURI_182
+  - first:
+      213: 8773105464059883165
+    second: KATAKURI_183
+  - first:
+      213: -4704337182509683632
+    second: KATAKURI_184
+  - first:
+      213: 1753488324786691912
+    second: KATAKURI_185
+  - first:
+      213: 3093514695469846066
+    second: KATAKURI_186
+  - first:
+      213: -1828705297842562912
+    second: KATAKURI_187
+  - first:
+      213: -3467378624623292942
+    second: KATAKURI_188
+  - first:
+      213: -5122488417914492451
+    second: KATAKURI_189
+  - first:
+      213: -5585125390975226278
+    second: KATAKURI_190
+  - first:
+      213: 3310476794506818701
+    second: KATAKURI_191
+  - first:
+      213: 615870073208485853
+    second: KATAKURI_192
+  - first:
+      213: 304599768981594927
+    second: KATAKURI_193
+  - first:
+      213: -1267500613748181150
+    second: KATAKURI_194
+  - first:
+      213: -7335873904481440515
+    second: KATAKURI_195
+  - first:
+      213: 952659967150405622
+    second: KATAKURI_196
+  - first:
+      213: -3747701672406211847
+    second: KATAKURI_197
+  - first:
+      213: 2115715080528639874
+    second: KATAKURI_198
+  - first:
+      213: 7772601303631698314
+    second: KATAKURI_83
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: KATAKURI_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 8736
+        width: 137
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c99ed60aa3687f80800000000000000
+      internalID: -8108621547169736255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_1
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 8736
+        width: 165
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 18326e4955cf1d330800000000000000
+      internalID: 3734043010567381889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_2
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 8348
+        width: 206
+        height: 281
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eafa5e20755d06f0800000000000000
+      internalID: -716822825379628313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_3
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 8348
+        width: 271
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2238ca312cefbddc0800000000000000
+      internalID: -3613014166527507678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_4
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 8334
+        width: 276
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d056e234d98712c80800000000000000
+      internalID: -8349259617335876339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_5
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 8370
+        width: 298
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a62869b5f701ab0800000000000000
+      internalID: -5039387951683704189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_6
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 8580
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e08d7083b34c95e0800000000000000
+      internalID: -1901570504423276313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_7
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 8370
+        width: 290
+        height: 218
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b55dcbc4815f00270800000000000000
+      internalID: 8214835205039248731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 8353
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04ac9ba067e6032f0800000000000000
+      internalID: -995174064383735232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_9
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7710
+        width: 201
+        height: 370
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b4bf3c4ae46b3de40800000000000000
+      internalID: 5680084003932339019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_10
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 7710
+        width: 281
+        height: 441
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc629966cf762a1c0800000000000000
+      internalID: -4493915144411601204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_11
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 7710
+        width: 320
+        height: 539
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0b503ca2c631da60800000000000000
+      internalID: 7696993447893293834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_12
+      rect:
+        serializedVersion: 2
+        x: 1256
+        y: 7706
+        width: 477
+        height: 410
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d25df5ac06b620b70800000000000000
+      internalID: 8863765080074868013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_13
+      rect:
+        serializedVersion: 2
+        x: 1849
+        y: 7710
+        width: 500
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4953adb69d9b41d30800000000000000
+      internalID: 4401347079316321684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_14
+      rect:
+        serializedVersion: 2
+        x: 2417
+        y: 7710
+        width: 503
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49951db9e892fbd50800000000000000
+      internalID: 6755163658555316628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 7180
+        width: 129
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e3dd89cb78ac53900800000000000000
+      internalID: 663659204440546622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_16
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7180
+        width: 165
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11466a484b2c68ef0800000000000000
+      internalID: -106183460621229039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_17
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 7180
+        width: 222
+        height: 369
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54cd86da57dbd08f0800000000000000
+      internalID: -572593264488031163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_18
+      rect:
+        serializedVersion: 2
+        x: 872
+        y: 7175
+        width: 420
+        height: 405
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b2247f61bf586250800000000000000
+      internalID: 5938101324371731129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_19
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 7514
+        width: 218
+        height: 97
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3259335f5048d53a0800000000000000
+      internalID: -6675033911569705693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_20
+      rect:
+        serializedVersion: 2
+        x: 1350
+        y: 7175
+        width: 417
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b554ae33419e82040800000000000000
+      internalID: 4623201290475423067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_21
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 6796
+        width: 406
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6fe313ef786ffa9e0800000000000000
+      internalID: -1607795478002319626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_22
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 6791
+        width: 361
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e3ed998e7a9fa130800000000000000
+      internalID: 3580250097048216552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_23
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6791
+        width: 435
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93da6b0b72d4e3680800000000000000
+      internalID: -8773490191207322311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_24
+      rect:
+        serializedVersion: 2
+        x: 1431
+        y: 6791
+        width: 472
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7eeff3a22eabc5bb0800000000000000
+      internalID: -4945872810225434905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_25
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 6791
+        width: 473
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c98abacac3ad48750800000000000000
+      internalID: 6306405332355360924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_26
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 6796
+        width: 482
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05fd91f5d5d3f8430800000000000000
+      internalID: 3787313282878660432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_27
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 6796
+        width: 476
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8d3a018b5702f7820800000000000000
+      internalID: 2918086773530731480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_28
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 6791
+        width: 472
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c13b16fe314068af0800000000000000
+      internalID: -394623433681292516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_29
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 6778
+        width: 276
+        height: 235
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 541e93af6f2cbcd50800000000000000
+      internalID: 6758710031815401797
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_30
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6211
+        width: 401
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97286ff750a0c33d0800000000000000
+      internalID: -3225692214366141831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6234
+        width: 214
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e7aca5e7660ecd0800000000000000
+      internalID: -2530910297707086266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_35
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6216
+        width: 361
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 988a7149f2143de70800000000000000
+      internalID: 9138719741468715145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_43
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 6220
+        width: 209
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 91b0db555d8ed0810800000000000000
+      internalID: 1733297434571639577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_44
+      rect:
+        serializedVersion: 2
+        x: 1791
+        y: 6211
+        width: 2552
+        height: 420
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 4, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 792de265327785980800000000000000
+      internalID: -8549952898909416809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_66
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 5685
+        width: 263
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2ccbc3d003cdc6fa0800000000000000
+      internalID: -5806023720648786750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_67
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 5694
+        width: 317
+        height: 338
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80ae57eded2b392a0800000000000000
+      internalID: -6731840347704006136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_68
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 5689
+        width: 433
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4741e68d5b9cebe0800000000000000
+      internalID: -1446610554295597236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_69
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 5699
+        width: 436
+        height: 244
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c0ae6fbc71d34b10800000000000000
+      internalID: 1964644196181516485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_82
+      rect:
+        serializedVersion: 2
+        x: 3652
+        y: 5722
+        width: 173
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfd8b1f1f498a9780800000000000000
+      internalID: -8675470759258518020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_84
+      rect:
+        serializedVersion: 2
+        x: 4089
+        y: 5611
+        width: 195
+        height: 431
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb9095b4af2d9ed80800000000000000
+      internalID: -8220807672340346434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_75
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 5685
+        width: 433
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 70f04dfb2af6a0530800000000000000
+      internalID: 3821989978571017991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_76
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 5685
+        width: 435
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fc50906a38b78b60800000000000000
+      internalID: 7748364244781915381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_81
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 5703
+        width: 136
+        height: 230
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2630329f52474d6c0800000000000000
+      internalID: -4119540052694727838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_80
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 5709
+        width: 139
+        height: 204
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508d3901d5ad8aae0800000000000000
+      internalID: -1537739179502086139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_93
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 5190
+        width: 489
+        height: 356
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e93e1c7cf8ce9020800000000000000
+      internalID: 2350537042273647078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_94
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 5185
+        width: 771
+        height: 355
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1c6bcc856876350800000000000000
+      internalID: 6009919943698989499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_95
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 5194
+        width: 807
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15f4d8c3536ee7bc0800000000000000
+      internalID: -3783333520621088943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_96
+      rect:
+        serializedVersion: 2
+        x: 2545
+        y: 5194
+        width: 924
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 611bf56be6dcc6b50800000000000000
+      internalID: 6587866230326014230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4958
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76af97f99a74b1d20800000000000000
+      internalID: 3250270349928561255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_98
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 4400
+        width: 303
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 223693acf3380ca80800000000000000
+      internalID: -8448608590948113630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_99
+      rect:
+        serializedVersion: 2
+        x: 1992
+        y: 4391
+        width: 365
+        height: 598
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3847dd851efa00800000000000000
+      internalID: 792094283410194155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_100
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 4400
+        width: 446
+        height: 562
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 621fdc08f5ce581b0800000000000000
+      internalID: -5654853862166761178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_101
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 4396
+        width: 249
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a4777a009e1453900800000000000000
+      internalID: 663508989101176650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_102
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 4400
+        width: 227
+        height: 428
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d031905a82ab7ec60800000000000000
+      internalID: 7847445559446672141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_103
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 4400
+        width: 231
+        height: 491
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9df78a26ce5e84ee0800000000000000
+      internalID: -1276517690929283111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_104
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 4400
+        width: 234
+        height: 522
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f01e2a557a4ab260800000000000000
+      internalID: 7114080429269717240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_105
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 4414
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c7f547814c412390800000000000000
+      internalID: -7844905231576598591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_106
+      rect:
+        serializedVersion: 2
+        x: 3170
+        y: 4342
+        width: 446
+        height: 517
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8a6908e83d754f60800000000000000
+      internalID: 8017952394967607947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_107
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 4338
+        width: 450
+        height: 459
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a17197d29789bc800800000000000000
+      internalID: 633767818797061914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_108
+      rect:
+        serializedVersion: 2
+        x: 118
+        y: 3945
+        width: 259
+        height: 290
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed593d2eb35e2af0800000000000000
+      internalID: -419305639031251484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_109
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3950
+        width: 308
+        height: 236
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04d9fe2db1f0b5890800000000000000
+      internalID: -7468358944886383296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_110
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 3406
+        width: 165
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4787ce5ec445fe260800000000000000
+      internalID: 7129009424402511988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_111
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3419
+        width: 160
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 416dae380374472e0800000000000000
+      internalID: -2128998450142194156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_112
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3468
+        width: 231
+        height: 330
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a87cf3ebe9b5f2f90800000000000000
+      internalID: -6976256560418797686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_113
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3415
+        width: 259
+        height: 347
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0c916bd60234c5e00800000000000000
+      internalID: 1034775820947036608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_114
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3722
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f9d28f45e097e170800000000000000
+      internalID: 8207688160461904371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_115
+      rect:
+        serializedVersion: 2
+        x: 1640
+        y: 3595
+        width: 223
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3210d9624833138d0800000000000000
+      internalID: -2868454844981771997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_116
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 3595
+        width: 174
+        height: 229
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e80bae83c6e0549a0800000000000000
+      internalID: -6249573049932533618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_117
+      rect:
+        serializedVersion: 2
+        x: 2398
+        y: 3546
+        width: 237
+        height: 248
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aae0b6cc0665a0fb0800000000000000
+      internalID: -4680833888951791958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_118
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 3584
+        width: 272
+        height: 210
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 407d65a5b9de267f0800000000000000
+      internalID: -620672547132352764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_119
+      rect:
+        serializedVersion: 2
+        x: 3251
+        y: 3383
+        width: 387
+        height: 402
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd7fd7a595abb62d0800000000000000
+      internalID: -3284326610303584293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_120
+      rect:
+        serializedVersion: 2
+        x: 3732
+        y: 3571
+        width: 303
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72b95538d76b9a9f0800000000000000
+      internalID: -456633237010801881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_121
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3638
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71b34d7be45038c40800000000000000
+      internalID: 5513256204481346327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_122
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3620
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6bec17dae0bd434c0800000000000000
+      internalID: -4308578087400780106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_123
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3629
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 34dba7b43432ef1c0800000000000000
+      internalID: -4468095008368837309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_124
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 3531
+        width: 31
+        height: 43
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c8b9b42820c110a50800000000000000
+      internalID: 6485495735491730316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_125
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 3508
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76163d44ddb2e7ea0800000000000000
+      internalID: -5873208634702077593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_126
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 3531
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 864d39e0bd0f01590800000000000000
+      internalID: -7705394138797845400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_127
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 3415
+        width: 258
+        height: 102
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1812c17c8e5b80250800000000000000
+      internalID: 5911174522301325697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_128
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2924
+        width: 326
+        height: 294
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b336d74b30bc89e0800000000000000
+      internalID: -1617724397478071371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_129
+      rect:
+        serializedVersion: 2
+        x: 627
+        y: 2956
+        width: 477
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1338c9e2e3bfdc80800000000000000
+      internalID: -8295714201426971875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_130
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2915
+        width: 331
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d611dd358ad8503f0800000000000000
+      internalID: -935185593508490899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_131
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 2946
+        width: 797
+        height: 259
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 254975ef101ec1060800000000000000
+      internalID: 6925657725667349586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_132
+      rect:
+        serializedVersion: 2
+        x: 2667
+        y: 2919
+        width: 327
+        height: 299
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b3556be704ef6d0800000000000000
+      internalID: -2954853392539370733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_133
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 2915
+        width: 718
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5cfc531f0aa5d010800000000000000
+      internalID: 1213062656372309084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_134
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2893
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065bf51b346fe64b0800000000000000
+      internalID: -5445144128845269664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_135
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2897
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a010727e074875550800000000000000
+      internalID: 6149529436646998282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_136
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 2442
+        width: 794
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f7e06e1689add230800000000000000
+      internalID: 3665272065249830902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_137
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1831
+        width: 1271
+        height: 446
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48705cfdb72de7cf0800000000000000
+      internalID: -252533099609127036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1185
+        width: 365
+        height: 222
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8974053042c069320800000000000000
+      internalID: 2564250386648024984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_139
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 926
+        width: 454
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: afeefe667cd2e1510800000000000000
+      internalID: 1521704058546548474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_140
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1358
+        width: 397
+        height: 258
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e7cc5ab4a0fbb5c30800000000000000
+      internalID: 4349279916096081022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_141
+      rect:
+        serializedVersion: 2
+        x: 2300
+        y: 814
+        width: 245
+        height: 557
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd1856af53cb92270800000000000000
+      internalID: 8226313134389166559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_142
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1229
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d41ed10f79d5d4790800000000000000
+      internalID: -7544270893625777843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_143
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 881
+        width: 248
+        height: 379
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 69095117616e822f0800000000000000
+      internalID: -997294333401657194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_144
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1082
+        width: 289
+        height: 245
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf32c3345961b02a0800000000000000
+      internalID: -6770292784487455749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_145
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1153
+        width: 406
+        height: 89
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8662f1d4f09d9bac0800000000000000
+      internalID: -3838798547615013272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_146
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 921
+        width: 232
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e45fa08b624a2200800000000000000
+      internalID: 156010166585611492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_147
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 1175
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b549dd0d0c7b1850800000000000000
+      internalID: 6348804495217608117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_148
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 1153
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98a37f4220cb4c540800000000000000
+      internalID: 5027349801448454793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_149
+      rect:
+        serializedVersion: 2
+        x: 4214
+        y: 1117
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5aa82600086d37db0800000000000000
+      internalID: -4795253332968830299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_150
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 1108
+        width: 58
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 260090c156f0071f0800000000000000
+      internalID: -1049321786240860062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 680
+        width: 410
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 151ef49f590fbf850800000000000000
+      internalID: 6411983021415588177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_152
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 903
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62fbfa923e1904080800000000000000
+      internalID: -9205197233502306522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_153
+      rect:
+        serializedVersion: 2
+        x: 3233
+        y: 739
+        width: 370
+        height: 231
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff908df46455d330800000000000000
+      internalID: 3734984258700222461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_154
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 769
+        width: 201
+        height: 254
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61535402949e65060800000000000000
+      internalID: 6941992375921489174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_155
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 827
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 642661f1316119790800000000000000
+      internalID: -7525209230977637818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_156
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 837
+        width: 85
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3680950471bf64240800000000000000
+      internalID: 4775780532155385955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_157
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 814
+        width: 71
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c97311b7e66baa4e0800000000000000
+      internalID: -1969561301393786980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_158
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 769
+        width: 80
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04adfaa80feea9670800000000000000
+      internalID: 8546405959775279680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_159
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 667
+        width: 54
+        height: 58
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 756310c6fe35a1a20800000000000000
+      internalID: 3033829586761758295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_160
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 592
+        width: 61
+        height: 92
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9a640ada86ba5f740800000000000000
+      internalID: 5185239012064904873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_161
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 650
+        width: 75
+        height: 70
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99f5379a230d6eff0800000000000000
+      internalID: -7089433384624231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_162
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 582
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f36d948c558bf98a0800000000000000
+      internalID: -6296111075468650945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_163
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 390
+        width: 196
+        height: 232
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f12fce6aec4207180800000000000000
+      internalID: -9119748775442845153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_164
+      rect:
+        serializedVersion: 2
+        x: 3781
+        y: 395
+        width: 322
+        height: 240
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7492da506980c44f0800000000000000
+      internalID: -843289589791774393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_165
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 167
+        width: 57
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e1f1806447f0ce40800000000000000
+      internalID: 5674807403535790564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_166
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 283
+        width: 27
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0213a0761dcc47a0800000000000000
+      internalID: -6391508274882866677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_167
+      rect:
+        serializedVersion: 2
+        x: 1613
+        y: 33
+        width: 281
+        height: 375
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: da9629ecffc4a6c80800000000000000
+      internalID: -8328759899302237779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_168
+      rect:
+        serializedVersion: 2
+        x: 1529
+        y: 239
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a9e557b7dc191eb0800000000000000
+      internalID: -4748732619266070112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_169
+      rect:
+        serializedVersion: 2
+        x: 1546
+        y: 248
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 376bb9d0c64ba02d0800000000000000
+      internalID: -3311636199799802253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_170
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 172
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd229ee5df06332d0800000000000000
+      internalID: -3300187460597112101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_171
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 181
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66a28f46427763e0800000000000000
+      internalID: -2060552658191473042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_172
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 33
+        width: 245
+        height: 209
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545fcecaaca3c64d0800000000000000
+      internalID: -3140070198025063099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_173
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 33
+        width: 156
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a462a6fb46918e0f0800000000000000
+      internalID: -1087591389511145910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_174
+      rect:
+        serializedVersion: 2
+        x: 1421
+        y: 87
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 361d95f152ca02510800000000000000
+      internalID: 1522405949490975075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_175
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 141
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f368a4b1f70d83ee0800000000000000
+      internalID: -1281044849649613249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_176
+      rect:
+        serializedVersion: 2
+        x: 1524
+        y: 109
+        width: 31
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 552bc0545f4bf0f90800000000000000
+      internalID: -6985165531509902763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_177
+      rect:
+        serializedVersion: 2
+        x: 1559
+        y: 118
+        width: 18
+        height: 54
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 41b0a0e1fee163260800000000000000
+      internalID: 7076877876809304852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_178
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 74
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b8e23b66dd809dc90800000000000000
+      internalID: -7144669586842767733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_179
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 33
+        width: 139
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a0a69d041e025030800000000000000
+      internalID: 3481860941200924838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_180
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 33
+        width: 138
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21af130f57a118590800000000000000
+      internalID: -7673823196219311598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_181
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 74
+        width: 67
+        height: 53
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8542e4ea636a2beb0800000000000000
+      internalID: -4705515906865945512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_182
+      rect:
+        serializedVersion: 2
+        x: 1064
+        y: 33
+        width: 187
+        height: 85
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b03e73e978a973e60800000000000000
+      internalID: 7941986375156884235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_183
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 33
+        width: 237
+        height: 76
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9ee35a00f450c970800000000000000
+      internalID: 8773105464059883165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_184
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 33
+        width: 200
+        height: 90
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 05c29d4d146d6beb0800000000000000
+      internalID: -4704337182509683632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_185
+      rect:
+        serializedVersion: 2
+        x: 2572
+        y: 87
+        width: 63
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84f94bc4754a55810800000000000000
+      internalID: 1753488324786691912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_186
+      rect:
+        serializedVersion: 2
+        x: 2849
+        y: 96
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23e4ee2b93f5eea20800000000000000
+      internalID: 3093514695469846066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_187
+      rect:
+        serializedVersion: 2
+        x: 2880
+        y: 107
+        width: 36
+        height: 28
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0a8183378322f96e0800000000000000
+      internalID: -1828705297842562912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_188
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 47
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2fdcb89038561efc0800000000000000
+      internalID: -3467378624623292942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_189
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 42
+        width: 47
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd9672c8ce349e8b0800000000000000
+      internalID: -5122488417914492451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_190
+      rect:
+        serializedVersion: 2
+        x: 2378
+        y: 65
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5e28e45c06ad72b0800000000000000
+      internalID: -5585125390975226278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_191
+      rect:
+        serializedVersion: 2
+        x: 2426
+        y: 33
+        width: 53
+        height: 72
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84b0cdda1d21fd20800000000000000
+      internalID: 3310476794506818701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_192
+      rect:
+        serializedVersion: 2
+        x: 2515
+        y: 33
+        width: 131
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd7b26d81920c8800800000000000000
+      internalID: 615870073208485853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_193
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 33
+        width: 120
+        height: 45
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2360d440e72a3400800000000000000
+      internalID: 304599768981594927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_194
+      rect:
+        serializedVersion: 2
+        x: 2956
+        y: 33
+        width: 98
+        height: 36
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 26733f448eee86ee0800000000000000
+      internalID: -1267500613748181150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_195
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 33
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfc635e0d8db13a90800000000000000
+      internalID: -7335873904481440515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_196
+      rect:
+        serializedVersion: 2
+        x: 2804
+        y: 33
+        width: 72
+        height: 32
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f73cb55137883d00800000000000000
+      internalID: 952659967150405622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_197
+      rect:
+        serializedVersion: 2
+        x: 2876
+        y: 47
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9f227146f2d7dfbc0800000000000000
+      internalID: -3747701672406211847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_198
+      rect:
+        serializedVersion: 2
+        x: 2898
+        y: 33
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 287b8dcf7a78c5d10800000000000000
+      internalID: 2115715080528639874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: KATAKURI_83
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 5656
+        width: 191
+        height: 361
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a8994b364b3dddb60800000000000000
+      internalID: 7772601303631698314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

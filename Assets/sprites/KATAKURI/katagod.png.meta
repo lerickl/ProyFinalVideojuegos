@@ -1,0 +1,5844 @@
+fileFormatVersion: 2
+guid: 1dc79110ead51c24c957ffb7cd69ce14
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3686180149972437299
+    second: katagod_0
+  - first:
+      213: -6327221719774654036
+    second: katagod_1
+  - first:
+      213: -397964991697220598
+    second: katagod_2
+  - first:
+      213: -1677434518926704773
+    second: katagod_3
+  - first:
+      213: -4832744691549403196
+    second: katagod_4
+  - first:
+      213: -5036121098264439612
+    second: katagod_5
+  - first:
+      213: 8068042190623140561
+    second: katagod_6
+  - first:
+      213: -9122926386388942350
+    second: katagod_7
+  - first:
+      213: 4621953907261096582
+    second: katagod_8
+  - first:
+      213: 7234724544009967892
+    second: katagod_9
+  - first:
+      213: 2633821428611550254
+    second: katagod_10
+  - first:
+      213: 8488122284685034939
+    second: katagod_11
+  - first:
+      213: 2559801658398608406
+    second: katagod_12
+  - first:
+      213: -6046211491739990505
+    second: katagod_13
+  - first:
+      213: 7920694830743380286
+    second: katagod_14
+  - first:
+      213: 6528675160775678828
+    second: katagod_15
+  - first:
+      213: 2761514025297102930
+    second: katagod_16
+  - first:
+      213: -6425259050665228993
+    second: katagod_17
+  - first:
+      213: -9123807221646244668
+    second: katagod_18
+  - first:
+      213: 6162847305913698332
+    second: katagod_19
+  - first:
+      213: 7151493804515604419
+    second: katagod_20
+  - first:
+      213: -7062061022212230129
+    second: katagod_21
+  - first:
+      213: 8548390168520636379
+    second: katagod_22
+  - first:
+      213: 6147659612718025057
+    second: katagod_23
+  - first:
+      213: -6810497457777013904
+    second: katagod_24
+  - first:
+      213: 3307745650044486118
+    second: katagod_25
+  - first:
+      213: -7372124493951431614
+    second: katagod_26
+  - first:
+      213: -3696369984963876875
+    second: katagod_27
+  - first:
+      213: 3864324338867444428
+    second: katagod_28
+  - first:
+      213: 7977020729503035364
+    second: katagod_29
+  - first:
+      213: 7011877981132718279
+    second: katagod_30
+  - first:
+      213: 2034424622902803363
+    second: katagod_31
+  - first:
+      213: 6689214471819022471
+    second: katagod_32
+  - first:
+      213: -3199519885669763635
+    second: katagod_33
+  - first:
+      213: 1803095172244939986
+    second: katagod_34
+  - first:
+      213: -7061945303987504139
+    second: katagod_35
+  - first:
+      213: -5202281097733814633
+    second: katagod_36
+  - first:
+      213: -3110203060460137459
+    second: katagod_37
+  - first:
+      213: -6610796766617005538
+    second: katagod_38
+  - first:
+      213: -6916817466507979899
+    second: katagod_39
+  - first:
+      213: -8448506777161609787
+    second: katagod_40
+  - first:
+      213: 4406876006367460313
+    second: katagod_41
+  - first:
+      213: -5623455514070047582
+    second: katagod_42
+  - first:
+      213: 6261217559781748951
+    second: katagod_43
+  - first:
+      213: 8715044023040335065
+    second: katagod_44
+  - first:
+      213: -7106541991385407440
+    second: katagod_45
+  - first:
+      213: -2758020352109645913
+    second: katagod_46
+  - first:
+      213: -469789343360039863
+    second: katagod_47
+  - first:
+      213: 4309246183624243805
+    second: katagod_48
+  - first:
+      213: -5602142738838998128
+    second: katagod_49
+  - first:
+      213: -625786685300275737
+    second: katagod_50
+  - first:
+      213: 6325668124508896628
+    second: katagod_51
+  - first:
+      213: 5684569843582047227
+    second: katagod_52
+  - first:
+      213: 1271688466110473659
+    second: katagod_53
+  - first:
+      213: 5394927279153389356
+    second: katagod_54
+  - first:
+      213: -2405628017446122774
+    second: katagod_55
+  - first:
+      213: -641121720983477371
+    second: katagod_56
+  - first:
+      213: -5951535148439006207
+    second: katagod_57
+  - first:
+      213: 1221501022006153592
+    second: katagod_58
+  - first:
+      213: 7018463296659003947
+    second: katagod_59
+  - first:
+      213: -1602374073921603307
+    second: katagod_60
+  - first:
+      213: 5179453804362557887
+    second: katagod_61
+  - first:
+      213: -6922251509949503803
+    second: katagod_62
+  - first:
+      213: 1771899275701464937
+    second: katagod_63
+  - first:
+      213: -627380927767559084
+    second: katagod_64
+  - first:
+      213: -5387510624192448371
+    second: katagod_65
+  - first:
+      213: -9002596173810889348
+    second: katagod_66
+  - first:
+      213: -4668494498389448418
+    second: katagod_67
+  - first:
+      213: 6136604083737398043
+    second: katagod_68
+  - first:
+      213: -3057745480815714971
+    second: katagod_69
+  - first:
+      213: 3794242350528264683
+    second: katagod_70
+  - first:
+      213: -5523029825629093331
+    second: katagod_71
+  - first:
+      213: 3613165155716763739
+    second: katagod_72
+  - first:
+      213: -8080098410973780667
+    second: katagod_73
+  - first:
+      213: 9122184500092185037
+    second: katagod_74
+  - first:
+      213: -4719354943381251407
+    second: katagod_75
+  - first:
+      213: 1959213874391286605
+    second: katagod_76
+  - first:
+      213: -4402791778098776059
+    second: katagod_77
+  - first:
+      213: -6260568467411203952
+    second: katagod_78
+  - first:
+      213: 4485220431279287105
+    second: katagod_79
+  - first:
+      213: -6579734772411085974
+    second: katagod_80
+  - first:
+      213: 860885170224203627
+    second: katagod_81
+  - first:
+      213: 3978628570679708005
+    second: katagod_82
+  - first:
+      213: -6969361531314056870
+    second: katagod_83
+  - first:
+      213: -1992394059260040714
+    second: katagod_84
+  - first:
+      213: 8210793376753251056
+    second: katagod_85
+  - first:
+      213: 161497824605008476
+    second: katagod_86
+  - first:
+      213: -4876363926399076794
+    second: katagod_87
+  - first:
+      213: -4747086703262737411
+    second: katagod_88
+  - first:
+      213: -6184903488398425524
+    second: katagod_89
+  - first:
+      213: -8549350753092994873
+    second: katagod_90
+  - first:
+      213: -4097505047505951246
+    second: katagod_91
+  - first:
+      213: -3492633036407957269
+    second: katagod_92
+  - first:
+      213: -7441185536264278700
+    second: katagod_93
+  - first:
+      213: -347262635405820717
+    second: katagod_94
+  - first:
+      213: -2418704498432452385
+    second: katagod_95
+  - first:
+      213: -1601169518962183027
+    second: katagod_96
+  - first:
+      213: 4579516343692651434
+    second: katagod_97
+  - first:
+      213: -4165897307346693401
+    second: katagod_98
+  - first:
+      213: -1766518037979593291
+    second: katagod_99
+  - first:
+      213: 7235045843123549873
+    second: katagod_100
+  - first:
+      213: 3755715450234298546
+    second: katagod_101
+  - first:
+      213: -7305255139021767005
+    second: katagod_102
+  - first:
+      213: 4896808555337882214
+    second: katagod_103
+  - first:
+      213: 4004509567548157276
+    second: katagod_104
+  - first:
+      213: -1776605626089540792
+    second: katagod_105
+  - first:
+      213: -4618483396548446306
+    second: katagod_106
+  - first:
+      213: 8458580010865541995
+    second: katagod_107
+  - first:
+      213: 3476416232252388659
+    second: katagod_108
+  - first:
+      213: 845977320629422334
+    second: katagod_109
+  - first:
+      213: 413451727423473050
+    second: katagod_110
+  - first:
+      213: 2271992285459036609
+    second: katagod_111
+  - first:
+      213: 4075012664162567613
+    second: katagod_112
+  - first:
+      213: -3447948738259923485
+    second: katagod_113
+  - first:
+      213: 496820221062112063
+    second: katagod_114
+  - first:
+      213: 2162598452149413202
+    second: katagod_115
+  - first:
+      213: -9160201221498616404
+    second: katagod_116
+  - first:
+      213: -8622102124887712113
+    second: katagod_117
+  - first:
+      213: 5082627644729601821
+    second: katagod_118
+  - first:
+      213: -573045908008766425
+    second: katagod_119
+  - first:
+      213: -7745415874476580096
+    second: katagod_120
+  - first:
+      213: 5607101324069348893
+    second: katagod_121
+  - first:
+      213: 568243064440216424
+    second: katagod_122
+  - first:
+      213: -4724754230007494521
+    second: katagod_123
+  - first:
+      213: 5662932251147302077
+    second: katagod_124
+  - first:
+      213: -1979380272320009137
+    second: katagod_125
+  - first:
+      213: 743589764725505807
+    second: katagod_126
+  - first:
+      213: 1068995893628455787
+    second: katagod_127
+  - first:
+      213: 4468773672109958055
+    second: katagod_128
+  - first:
+      213: 1545778528723002444
+    second: katagod_129
+  - first:
+      213: -1296453353375129428
+    second: katagod_130
+  - first:
+      213: -3743313212533756782
+    second: katagod_131
+  - first:
+      213: -7345625227809894768
+    second: katagod_132
+  - first:
+      213: -2165803828763166331
+    second: katagod_133
+  - first:
+      213: 2879382947412126384
+    second: katagod_134
+  - first:
+      213: -2470938977832033150
+    second: katagod_135
+  - first:
+      213: -7134618122384348487
+    second: katagod_136
+  - first:
+      213: -3934298058427004895
+    second: katagod_137
+  - first:
+      213: -8127970313611907234
+    second: katagod_138
+  - first:
+      213: -4479324137860348381
+    second: katagod_139
+  - first:
+      213: -3725765030688617235
+    second: katagod_140
+  - first:
+      213: -2659379895861923465
+    second: katagod_141
+  - first:
+      213: 6936272393356178559
+    second: katagod_142
+  - first:
+      213: -7883113496068161588
+    second: katagod_143
+  - first:
+      213: 6232815952191204636
+    second: katagod_144
+  - first:
+      213: 7734140934796118563
+    second: katagod_145
+  - first:
+      213: -1248028901234617053
+    second: katagod_146
+  - first:
+      213: 5758821946959130157
+    second: katagod_147
+  - first:
+      213: -3497482868876916583
+    second: katagod_148
+  - first:
+      213: 8578190047833081828
+    second: katagod_149
+  - first:
+      213: -8089977607875082073
+    second: katagod_150
+  - first:
+      213: 6155348931072533554
+    second: katagod_151
+  - first:
+      213: -1463398715720274980
+    second: katagod_152
+  - first:
+      213: 3671840749965810219
+    second: katagod_153
+  - first:
+      213: -1609250180180510785
+    second: katagod_154
+  - first:
+      213: 401809785974413465
+    second: katagod_155
+  - first:
+      213: 7734669241501455240
+    second: katagod_156
+  - first:
+      213: -862710328294967998
+    second: katagod_157
+  - first:
+      213: 421905111526451249
+    second: katagod_158
+  - first:
+      213: -9032380501240167820
+    second: katagod_159
+  - first:
+      213: 4052493120216513692
+    second: katagod_160
+  - first:
+      213: 2432605414437068955
+    second: katagod_161
+  - first:
+      213: -1227056997341141914
+    second: katagod_162
+  - first:
+      213: -5071219474896669817
+    second: katagod_163
+  - first:
+      213: 3648363133962861943
+    second: katagod_164
+  - first:
+      213: 4100086935486612439
+    second: katagod_165
+  - first:
+      213: 1300928161654726266
+    second: katagod_166
+  - first:
+      213: 6720989500971204779
+    second: katagod_167
+  - first:
+      213: -8157355966367565958
+    second: katagod_168
+  - first:
+      213: 5197082296904784792
+    second: katagod_169
+  - first:
+      213: -1314112833224051277
+    second: katagod_170
+  - first:
+      213: 5169607513991838173
+    second: katagod_171
+  - first:
+      213: -3073219563558449915
+    second: katagod_172
+  - first:
+      213: 1409379975957992544
+    second: katagod_173
+  - first:
+      213: 2760825901994624134
+    second: katagod_174
+  - first:
+      213: 1641486534624317234
+    second: katagod_175
+  - first:
+      213: 3146042852284852516
+    second: katagod_176
+  - first:
+      213: 1685514224785719309
+    second: katagod_177
+  - first:
+      213: 2348177796496733008
+    second: katagod_178
+  - first:
+      213: -5286675806891011462
+    second: katagod_179
+  - first:
+      213: -7907977884098549861
+    second: katagod_180
+  - first:
+      213: 7355085593610945275
+    second: katagod_181
+  - first:
+      213: -4608506435909698406
+    second: katagod_182
+  - first:
+      213: -5178555366524384575
+    second: katagod_183
+  - first:
+      213: -8624413989956929844
+    second: katagod_184
+  - first:
+      213: -1574386640055835539
+    second: katagod_185
+  - first:
+      213: 3806016090535010216
+    second: katagod_186
+  - first:
+      213: -4044597655625269172
+    second: katagod_187
+  - first:
+      213: 6068644722515377856
+    second: katagod_188
+  - first:
+      213: 4457473581316534271
+    second: katagod_189
+  - first:
+      213: -3673489956361518603
+    second: katagod_190
+  - first:
+      213: -3229998231121656837
+    second: katagod_191
+  - first:
+      213: -7451669598488904699
+    second: katagod_192
+  - first:
+      213: 4332886469281878353
+    second: katagod_193
+  - first:
+      213: 6462013027384642642
+    second: katagod_194
+  - first:
+      213: -3275182835260252214
+    second: katagod_195
+  - first:
+      213: -1901885642122360316
+    second: katagod_196
+  - first:
+      213: -347472033131909489
+    second: katagod_197
+  - first:
+      213: -4659439711140074372
+    second: katagod_198
+  - first:
+      213: -7594184588722761203
+    second: katagod_199
+  - first:
+      213: 7248828705074974180
+    second: katagod_200
+  - first:
+      213: 2778429953669615502
+    second: katagod_201
+  - first:
+      213: -3337871921946715246
+    second: katagod_202
+  - first:
+      213: -1004339292357147860
+    second: katagod_203
+  - first:
+      213: -6835737793962767104
+    second: katagod_204
+  - first:
+      213: 208137881093653117
+    second: katagod_205
+  - first:
+      213: -139771156698690290
+    second: katagod_206
+  - first:
+      213: -7474577046264712924
+    second: katagod_207
+  - first:
+      213: -3212640725430724348
+    second: katagod_208
+  - first:
+      213: 4372477694309602968
+    second: katagod_209
+  - first:
+      213: 5392200224794969489
+    second: katagod_210
+  - first:
+      213: 982814005067729362
+    second: katagod_211
+  - first:
+      213: -8239716579722834367
+    second: katagod_212
+  - first:
+      213: -4231254567779317892
+    second: katagod_213
+  - first:
+      213: 8686418272340674103
+    second: katagod_214
+  - first:
+      213: 9211612430227459755
+    second: katagod_215
+  - first:
+      213: -6277702722074611011
+    second: katagod_216
+  - first:
+      213: 2123464093527516582
+    second: katagod_217
+  - first:
+      213: 5479371750451487026
+    second: katagod_218
+  - first:
+      213: -940717407246360045
+    second: katagod_219
+  - first:
+      213: 8928685567206788837
+    second: katagod_220
+  - first:
+      213: 6070041312198504921
+    second: katagod_221
+  - first:
+      213: -3922115341769154133
+    second: katagod_222
+  - first:
+      213: 2639250389534284644
+    second: katagod_223
+  - first:
+      213: -6051272240115392594
+    second: katagod_224
+  - first:
+      213: -5941313926013218439
+    second: katagod_225
+  - first:
+      213: -563849147691687614
+    second: katagod_226
+  - first:
+      213: -7494812444130221253
+    second: katagod_227
+  - first:
+      213: -5109058263690560201
+    second: katagod_228
+  - first:
+      213: 4947332039303405815
+    second: katagod_229
+  - first:
+      213: -6032531639721709735
+    second: katagod_230
+  - first:
+      213: -7842694877255158557
+    second: katagod_231
+  - first:
+      213: 1054358646956808180
+    second: katagod_232
+  - first:
+      213: -594002605460808260
+    second: katagod_233
+  - first:
+      213: 5718307820560921463
+    second: katagod_234
+  - first:
+      213: -7911956552632796142
+    second: katagod_235
+  - first:
+      213: -634807183319067936
+    second: katagod_236
+  - first:
+      213: 5798094141228029130
+    second: katagod_237
+  - first:
+      213: -6060225997096952378
+    second: katagod_238
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: katagod_0
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 8736
+        width: 134
+        height: 334
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3390431f051f72330800000000000000
+      internalID: 3686180149972437299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_1
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 8736
+        width: 162
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca112b17e513138a0800000000000000
+      internalID: -6327221719774654036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_2
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 8355
+        width: 210
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0c88d4d2f42a7af0800000000000000
+      internalID: -397964991697220598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_3
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 8349
+        width: 274
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b7f3565413e88b8e0800000000000000
+      internalID: -1677434518926704773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_4
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 8339
+        width: 280
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c70b0ade44aeecb0800000000000000
+      internalID: -4832744691549403196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_5
+      rect:
+        serializedVersion: 2
+        x: 1189
+        y: 8370
+        width: 294
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4191c2b8a1c1ab0800000000000000
+      internalID: -5036121098264439612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_6
+      rect:
+        serializedVersion: 2
+        x: 1595
+        y: 8370
+        width: 290
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1dae4f440a177ff60800000000000000
+      internalID: 8068042190623140561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_7
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 7715
+        width: 201
+        height: 365
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f1cf3379cad46180800000000000000
+      internalID: -9122926386388942350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_8
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 7715
+        width: 286
+        height: 436
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 682c68a279a742040800000000000000
+      internalID: 4621953907261096582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_9
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 7710
+        width: 317
+        height: 535
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 419938d34a7e66460800000000000000
+      internalID: 7234724544009967892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_10
+      rect:
+        serializedVersion: 2
+        x: 1252
+        y: 7706
+        width: 481
+        height: 396
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e2c043e72a63d8420800000000000000
+      internalID: 2633821428611550254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_11
+      rect:
+        serializedVersion: 2
+        x: 1854
+        y: 7710
+        width: 499
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb58ab4fe3edbc570800000000000000
+      internalID: 8488122284685034939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_12
+      rect:
+        serializedVersion: 2
+        x: 2416
+        y: 7710
+        width: 504
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61c0e40cb0e368320800000000000000
+      internalID: 2559801658398608406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_13
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 7182
+        width: 134
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 71604f5beaa871ca0800000000000000
+      internalID: -6046211491739990505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_14
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 7182
+        width: 165
+        height: 353
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e316bb0abf5fbed60800000000000000
+      internalID: 7920694830743380286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_15
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 7182
+        width: 223
+        height: 372
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c6b53f3e7738a9a50800000000000000
+      internalID: 6528675160775678828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_16
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 7182
+        width: 417
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 258c718ff5ed25620800000000000000
+      internalID: 2761514025297102930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_17
+      rect:
+        serializedVersion: 2
+        x: 1345
+        y: 7182
+        width: 419
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f354c379fe4e4d6a0800000000000000
+      internalID: -6425259050665228993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_18
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 6796
+        width: 410
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c4c1a20ca9b16180800000000000000
+      internalID: -9123807221646244668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_19
+      rect:
+        serializedVersion: 2
+        x: 556
+        y: 6788
+        width: 338
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1885f9f8f4d68550800000000000000
+      internalID: 6162847305913698332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_20
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 6788
+        width: 424
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c73f8799b53f3360800000000000000
+      internalID: 7151493804515604419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_21
+      rect:
+        serializedVersion: 2
+        x: 1430
+        y: 6788
+        width: 475
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0478ecaae48efd90800000000000000
+      internalID: -7062061022212230129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_22
+      rect:
+        serializedVersion: 2
+        x: 1916
+        y: 6788
+        width: 285
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd73d14219bf1a670800000000000000
+      internalID: 8548390168520636379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_23
+      rect:
+        serializedVersion: 2
+        x: 2166
+        y: 6925
+        width: 98
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 169c21898dfd05550800000000000000
+      internalID: 6147659612718025057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_24
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 6862
+        width: 187
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07b008d45a04c71a0800000000000000
+      internalID: -6810497457777013904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_25
+      rect:
+        serializedVersion: 2
+        x: 2447
+        y: 6796
+        width: 478
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e1ce3eb42977ed20800000000000000
+      internalID: 3307745650044486118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_26
+      rect:
+        serializedVersion: 2
+        x: 3010
+        y: 6796
+        width: 477
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24c811af4d3f0b990800000000000000
+      internalID: -7372124493951431614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_27
+      rect:
+        serializedVersion: 2
+        x: 3541
+        y: 6788
+        width: 477
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f7efc7351bd3bcc0800000000000000
+      internalID: -3696369984963876875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_28
+      rect:
+        serializedVersion: 2
+        x: 4076
+        y: 6778
+        width: 280
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cca171b1386d0a530800000000000000
+      internalID: 3864324338867444428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_29
+      rect:
+        serializedVersion: 2
+        x: 948
+        y: 6211
+        width: 406
+        height: 352
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efa4f3e61214be60800000000000000
+      internalID: 7977020729503035364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_30
+      rect:
+        serializedVersion: 2
+        x: 2465
+        y: 6550
+        width: 156
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c08cc19fd13f4160800000000000000
+      internalID: 7011877981132718279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_31
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 6542
+        width: 245
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3abfd6a6a6abb3c10800000000000000
+      internalID: 2034424622902803363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_32
+      rect:
+        serializedVersion: 2
+        x: 3746
+        y: 6461
+        width: 218
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 780dc230f1dd4dc50800000000000000
+      internalID: 6689214471819022471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_33
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6238
+        width: 210
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc5fad2ad950993d0800000000000000
+      internalID: -3199519885669763635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_34
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 6216
+        width: 361
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d4a1e58181e50910800000000000000
+      internalID: 1803095172244939986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_35
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 6501
+        width: 36
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5fb369c692eeefd90800000000000000
+      internalID: -7061945303987504139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_36
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 6488
+        width: 156
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 796c8db87e8cdc7b0800000000000000
+      internalID: -5202281097733814633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_37
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 6465
+        width: 121
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d04d0f98bc656d4d0800000000000000
+      internalID: -3110203060460137459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_38
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 6474
+        width: 119
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e121e73cd5bb144a0800000000000000
+      internalID: -6610796766617005538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_39
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 6483
+        width: 165
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 583139c39278200a0800000000000000
+      internalID: -6916817466507979899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_40
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 6220
+        width: 196
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cd4dc829dfd0ca80800000000000000
+      internalID: -8448506777161609787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_41
+      rect:
+        serializedVersion: 2
+        x: 1805
+        y: 6211
+        width: 192
+        height: 268
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9db79b0116e582d30800000000000000
+      internalID: 4406876006367460313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_42
+      rect:
+        serializedVersion: 2
+        x: 2639
+        y: 6407
+        width: 170
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a4a4a9110975f1b0800000000000000
+      internalID: -5623455514070047582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_43
+      rect:
+        serializedVersion: 2
+        x: 3331
+        y: 6376
+        width: 169
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d0ba30823054e650800000000000000
+      internalID: 6261217559781748951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_44
+      rect:
+        serializedVersion: 2
+        x: 3630
+        y: 6439
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9dcd53b5d5e02f870800000000000000
+      internalID: 8715044023040335065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_45
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 6341
+        width: 62
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030631ef5bd706d90800000000000000
+      internalID: -7106541991385407440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_46
+      rect:
+        serializedVersion: 2
+        x: 2492
+        y: 6341
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7afe4353a1b89b9d0800000000000000
+      internalID: -2758020352109645913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_47
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 6358
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 944c2cdc419fa79f0800000000000000
+      internalID: -469789343360039863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_48
+      rect:
+        serializedVersion: 2
+        x: 3920
+        y: 6332
+        width: 308
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a71a892948dcb30800000000000000
+      internalID: 4309246183624243805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_49
+      rect:
+        serializedVersion: 2
+        x: 2578
+        y: 6332
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 093b7764cd03142b0800000000000000
+      internalID: -5602142738838998128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_50
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 6327
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e502854352c057f0800000000000000
+      internalID: -625786685300275737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_51
+      rect:
+        serializedVersion: 2
+        x: 2644
+        y: 6269
+        width: 151
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47d3d58f4a949c750800000000000000
+      internalID: 6325668124508896628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_52
+      rect:
+        serializedVersion: 2
+        x: 3188
+        y: 6287
+        width: 125
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf31b939726a3ee40800000000000000
+      internalID: 5684569843582047227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_53
+      rect:
+        serializedVersion: 2
+        x: 3840
+        y: 6327
+        width: 74
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb5e9771ce1f5a110800000000000000
+      internalID: 1271688466110473659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_54
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 6292
+        width: 143
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2f900fd6c1aeda40800000000000000
+      internalID: 5394927279153389356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_55
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 6287
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aea856e401e7d9ed0800000000000000
+      internalID: -2405628017446122774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_56
+      rect:
+        serializedVersion: 2
+        x: 2461
+        y: 6225
+        width: 138
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5832efa01374a17f0800000000000000
+      internalID: -641121720983477371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_57
+      rect:
+        serializedVersion: 2
+        x: 3295
+        y: 6189
+        width: 210
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1049a09a056e76da0800000000000000
+      internalID: -5951535148439006207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_58
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 6199
+        width: 138
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 871147d25b4a3f010800000000000000
+      internalID: 1221501022006153592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_59
+      rect:
+        serializedVersion: 2
+        x: 2496
+        y: 6194
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a1a72de27966160800000000000000
+      internalID: 7018463296659003947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_60
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 6167
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5197b9ef44933c9e0800000000000000
+      internalID: -1602374073921603307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_61
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 5685
+        width: 267
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9639b0bcd11e740800000000000000
+      internalID: 5179453804362557887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_62
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 5694
+        width: 321
+        height: 339
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c66c876de83fef90800000000000000
+      internalID: -6922251509949503803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_63
+      rect:
+        serializedVersion: 2
+        x: 1006
+        y: 5689
+        width: 433
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96f25f9d00d079810800000000000000
+      internalID: 1771899275701464937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_64
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 5689
+        width: 435
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4544f85ce581b47f0800000000000000
+      internalID: -627380927767559084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_65
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 5698
+        width: 437
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d88bd5da1a7bb35b0800000000000000
+      internalID: -5387510624192448371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_66
+      rect:
+        serializedVersion: 2
+        x: 2608
+        y: 5689
+        width: 437
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7d06bb4a7a501380800000000000000
+      internalID: -9002596173810889348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_67
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 5872
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e19a1ab0dfc263fb0800000000000000
+      internalID: -4668494498389448418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_68
+      rect:
+        serializedVersion: 2
+        x: 4205
+        y: 5930
+        width: 31
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b1b016aa6e8992550800000000000000
+      internalID: 6136604083737398043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_69
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 5921
+        width: 21
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 56d5c629fa4b095d0800000000000000
+      internalID: -3057745480815714971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_70
+      rect:
+        serializedVersion: 2
+        x: 4237
+        y: 5926
+        width: 40
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be9faf6a05bd7a430800000000000000
+      internalID: 3794242350528264683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_71
+      rect:
+        serializedVersion: 2
+        x: 3688
+        y: 5886
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228d77c2a14a53b0800000000000000
+      internalID: -5523029825629093331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_72
+      rect:
+        serializedVersion: 2
+        x: 4121
+        y: 5895
+        width: 17
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b501155d09a842230800000000000000
+      internalID: 3613165155716763739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_73
+      rect:
+        serializedVersion: 2
+        x: 4259
+        y: 5881
+        width: 22
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 545a5bf2e49bddf80800000000000000
+      internalID: -8080098410973780667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_74
+      rect:
+        serializedVersion: 2
+        x: 3742
+        y: 5850
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc9a19fa872889e70800000000000000
+      internalID: 9122184500092185037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_75
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 5837
+        width: 22
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bad6c6eeab718eb0800000000000000
+      internalID: -4719354943381251407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_76
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 5819
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d430c1e63a6803b10800000000000000
+      internalID: 1959213874391286605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_77
+      rect:
+        serializedVersion: 2
+        x: 4031
+        y: 5819
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 508796e643426e2c0800000000000000
+      internalID: -4402791778098776059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_78
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 5792
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09881f7162efd19a0800000000000000
+      internalID: -6260568467411203952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_79
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 5748
+        width: 32
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14be9b1f734be3e30800000000000000
+      internalID: 4485220431279287105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_80
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 5779
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6bc62ed51610b4a0800000000000000
+      internalID: -6579734772411085974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_81
+      rect:
+        serializedVersion: 2
+        x: 3964
+        y: 5694
+        width: 85
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b678d9b408a72fb00800000000000000
+      internalID: 860885170224203627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_82
+      rect:
+        serializedVersion: 2
+        x: 4125
+        y: 5743
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5698598fa9de63730800000000000000
+      internalID: 3978628570679708005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_83
+      rect:
+        serializedVersion: 2
+        x: 4219
+        y: 5698
+        width: 62
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a51d0cecc9ad74f90800000000000000
+      internalID: -6969361531314056870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_84
+      rect:
+        serializedVersion: 2
+        x: 3492
+        y: 5708
+        width: 17
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6f9e435c8289954e0800000000000000
+      internalID: -1992394059260040714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_85
+      rect:
+        serializedVersion: 2
+        x: 4244
+        y: 5676
+        width: 28
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f2f181d21992f170800000000000000
+      internalID: 8210793376753251056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_86
+      rect:
+        serializedVersion: 2
+        x: 4156
+        y: 5676
+        width: 53
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5274937a61cd3200800000000000000
+      internalID: 161497824605008476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_87
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 5190
+        width: 486
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 646347358dca35cb0800000000000000
+      internalID: -4876363926399076794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_88
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 5185
+        width: 774
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dfb5b066bc5fe1eb0800000000000000
+      internalID: -4747086703262737411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_89
+      rect:
+        serializedVersion: 2
+        x: 1622
+        y: 5194
+        width: 803
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4200fbdb0fca2aa0800000000000000
+      internalID: -6184903488398425524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_90
+      rect:
+        serializedVersion: 2
+        x: 2546
+        y: 5194
+        width: 927
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c87ca559ca9a5980800000000000000
+      internalID: -8549350753092994873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_91
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 4394
+        width: 250
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f5a90a6edcb227c0800000000000000
+      internalID: -4097505047505951246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_92
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 4405
+        width: 231
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be81c1612cca78fc0800000000000000
+      internalID: -3492633036407957269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_93
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 4405
+        width: 235
+        height: 490
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45d613b0e299bb890800000000000000
+      internalID: -7441185536264278700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_94
+      rect:
+        serializedVersion: 2
+        x: 1185
+        y: 4400
+        width: 229
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3dcbed419764e2bf0800000000000000
+      internalID: -347262635405820717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_95
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 4400
+        width: 304
+        height: 602
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fd85b42d2190f6ed0800000000000000
+      internalID: -2418704498432452385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_96
+      rect:
+        serializedVersion: 2
+        x: 1988
+        y: 4388
+        width: 370
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d84731d4ec087c9e0800000000000000
+      internalID: -1601169518962183027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_97
+      rect:
+        serializedVersion: 2
+        x: 2541
+        y: 4405
+        width: 446
+        height: 553
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aab65ece9d5bd8f30800000000000000
+      internalID: 4579516343692651434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_98
+      rect:
+        serializedVersion: 2
+        x: 3168
+        y: 4338
+        width: 452
+        height: 517
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e218d88872cf26c0800000000000000
+      internalID: -4165897307346693401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_99
+      rect:
+        serializedVersion: 2
+        x: 3844
+        y: 4334
+        width: 450
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5b508e034311c77e0800000000000000
+      internalID: -1766518037979593291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_100
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3941
+        width: 236
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b6bb058cdb086460800000000000000
+      internalID: 7235045843123549873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_101
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 3946
+        width: 298
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2b069a8ad4bfe1430800000000000000
+      internalID: 3755715450234298546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_102
+      rect:
+        serializedVersion: 2
+        x: 1676
+        y: 3804
+        width: 22
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3aeb20de7258e9a90800000000000000
+      internalID: -7305255139021767005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_103
+      rect:
+        serializedVersion: 2
+        x: 1707
+        y: 3825
+        width: 40
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66a120acf65f4f340800000000000000
+      internalID: 4896808555337882214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_104
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3780
+        width: 71
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5d6c512c30e29730800000000000000
+      internalID: 4004509567548157276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_105
+      rect:
+        serializedVersion: 2
+        x: 3791
+        y: 3571
+        width: 240
+        height: 272
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 843f8fe889a3857e0800000000000000
+      internalID: -1776605626089540792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_106
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3762
+        width: 53
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e97b0b312d9d7efb0800000000000000
+      internalID: -4618483396548446306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_107
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 3682
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b634cd354b9e26570800000000000000
+      internalID: 8458580010865541995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_108
+      rect:
+        serializedVersion: 2
+        x: 1662
+        y: 3785
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3353ec6f426be3030800000000000000
+      internalID: 3476416232252388659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_109
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3740
+        width: 88
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8472414e38dbb00800000000000000
+      internalID: 845977320629422334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_110
+      rect:
+        serializedVersion: 2
+        x: 1912
+        y: 3767
+        width: 36
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9509d0d720ecb500800000000000000
+      internalID: 413451727423473050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_111
+      rect:
+        serializedVersion: 2
+        x: 1957
+        y: 3647
+        width: 115
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b63332fcb78f10800000000000000
+      internalID: 2271992285459036609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_112
+      rect:
+        serializedVersion: 2
+        x: 2403
+        y: 3544
+        width: 234
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db5c0ae7d6a5d8830800000000000000
+      internalID: 4075012664162567613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_113
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 3767
+        width: 40
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3edc24cf3ec6620d0800000000000000
+      internalID: -3447948738259923485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_114
+      rect:
+        serializedVersion: 2
+        x: 2755
+        y: 3669
+        width: 72
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f3363a9db5f05e600800000000000000
+      internalID: 496820221062112063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_115
+      rect:
+        serializedVersion: 2
+        x: 2782
+        y: 3584
+        width: 249
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 255ec2495d7130e10800000000000000
+      internalID: 2162598452149413202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_116
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3509
+        width: 111
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca5c979958d60e080800000000000000
+      internalID: -9160201221498616404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_117
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 3642
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e5dec9cc3285880800000000000000
+      internalID: -8622102124887712113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_118
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 3727
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d1f20b9f9ee198640800000000000000
+      internalID: 5082627644729601821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_119
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3647
+        width: 85
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 724752568c12c08f0800000000000000
+      internalID: -573045908008766425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_120
+      rect:
+        serializedVersion: 2
+        x: 1136
+        y: 3713
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 003e6249c41c28490800000000000000
+      internalID: -7745415874476580096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_121
+      rect:
+        serializedVersion: 2
+        x: 1229
+        y: 3620
+        width: 98
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d16a6c052fc60dd40800000000000000
+      internalID: 5607101324069348893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_122
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 3718
+        width: 36
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86bd9027e0ec2e700800000000000000
+      internalID: 568243064440216424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_123
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3718
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78801658f0d4e6eb0800000000000000
+      internalID: -4724754230007494521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_124
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 3727
+        width: 35
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db4fcb001e6c69e40800000000000000
+      internalID: 5662932251147302077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_125
+      rect:
+        serializedVersion: 2
+        x: 1903
+        y: 3615
+        width: 51
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f4c23f82124d784e0800000000000000
+      internalID: -1979380272320009137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_126
+      rect:
+        serializedVersion: 2
+        x: 1944
+        y: 3687
+        width: 30
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0f741983f2c15a00800000000000000
+      internalID: 743589764725505807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_127
+      rect:
+        serializedVersion: 2
+        x: 3255
+        y: 3383
+        width: 379
+        height: 402
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6b431af916d5de00800000000000000
+      internalID: 1068995893628455787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_128
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 3687
+        width: 17
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a36bbb6af5440e30800000000000000
+      internalID: 4468773672109958055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_129
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3678
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c44e5f9c165b37510800000000000000
+      internalID: 1545778528723002444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_130
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 3678
+        width: 91
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca026344b82120ee0800000000000000
+      internalID: -1296453353375129428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_131
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3633
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29c26e357741d0cc0800000000000000
+      internalID: -3743313212533756782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_132
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 3682
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09e4e3b26c81f0a90800000000000000
+      internalID: -7345625227809894768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_133
+      rect:
+        serializedVersion: 2
+        x: 3741
+        y: 3696
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 589f36584e481f1e0800000000000000
+      internalID: -2165803828763166331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_134
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3589
+        width: 63
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0ba21d8f88f95f720800000000000000
+      internalID: 2879382947412126384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_135
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3633
+        width: 22
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 284a7ac571675bdd0800000000000000
+      internalID: -2470938977832033150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_136
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3629
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ba67375e9ebcfc90800000000000000
+      internalID: -7134618122384348487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_137
+      rect:
+        serializedVersion: 2
+        x: 1122
+        y: 3584
+        width: 80
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 12803fab2c09669c0800000000000000
+      internalID: -3934298058427004895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_138
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 3629
+        width: 102
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5fed384016a33f80800000000000000
+      internalID: -8127970313611907234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_139
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 3598
+        width: 85
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3264009dd6e36d1c0800000000000000
+      internalID: -4479324137860348381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_140
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 3658
+        width: 21
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dec8b3dc17c6b4cc0800000000000000
+      internalID: -3725765030688617235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_141
+      rect:
+        serializedVersion: 2
+        x: 1961
+        y: 3598
+        width: 107
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 771b550231cf71bd0800000000000000
+      internalID: -2659379895861923465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_142
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 3638
+        width: 40
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f74f757edf6924060800000000000000
+      internalID: 6936272393356178559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_143
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3598
+        width: 26
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccff4c6ba0e899290800000000000000
+      internalID: -7883113496068161588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_144
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 3593
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1daebce5196f7650800000000000000
+      internalID: 6232815952191204636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_145
+      rect:
+        serializedVersion: 2
+        x: 979
+        y: 3589
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 32a8455f330355b60800000000000000
+      internalID: 7734140934796118563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_146
+      rect:
+        serializedVersion: 2
+        x: 1765
+        y: 3624
+        width: 22
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3255d70a35c1eaee0800000000000000
+      internalID: -1248028901234617053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_147
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3602
+        width: 66
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d2ee8399c027bef40800000000000000
+      internalID: 5758821946959130157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_148
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 3584
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998c3987cd1767fc0800000000000000
+      internalID: -3497482868876916583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_149
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 3539
+        width: 17
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7c1e8366adb0770800000000000000
+      internalID: 8578190047833081828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_150
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 3580
+        width: 48
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7a8cdb96a30aabf80800000000000000
+      internalID: -8089977607875082073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_151
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3535
+        width: 21
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 234a8298d313c6550800000000000000
+      internalID: 6155348931072533554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_152
+      rect:
+        serializedVersion: 2
+        x: 1756
+        y: 3593
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cdbeab81f96f0bbe0800000000000000
+      internalID: -1463398715720274980
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_153
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3473
+        width: 26
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b2a148535bff4f230800000000000000
+      internalID: 3671840749965810219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_154
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 3419
+        width: 85
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb77b9fbc7bcaa9e0800000000000000
+      internalID: -1609250180180510785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_155
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 3468
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 998d7481fd3839500800000000000000
+      internalID: 401809785974413465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_156
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 3509
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88395d2f1b0175b60800000000000000
+      internalID: 7734669241501455240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_157
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 3473
+        width: 58
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 245fae9f6890704f0800000000000000
+      internalID: -862710328294967998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_158
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 3490
+        width: 45
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 138a47da678ead500800000000000000
+      internalID: 421905111526451249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_159
+      rect:
+        serializedVersion: 2
+        x: 1301
+        y: 3509
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4724a6b2ac986a280800000000000000
+      internalID: -9032380501240167820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_160
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3477
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9c383595095d3830800000000000000
+      internalID: 4052493120216513692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_161
+      rect:
+        serializedVersion: 2
+        x: 493
+        y: 3423
+        width: 48
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b90a6366cb952c120800000000000000
+      internalID: 2432605414437068955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_162
+      rect:
+        serializedVersion: 2
+        x: 761
+        y: 3419
+        width: 254
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 664e252892e98fee0800000000000000
+      internalID: -1227056997341141914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_163
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 3428
+        width: 103
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 783bdbc81c86f99b0800000000000000
+      internalID: -5071219474896669817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_164
+      rect:
+        serializedVersion: 2
+        x: 1243
+        y: 3411
+        width: 138
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77dbc73c0f691a230800000000000000
+      internalID: 3648363133962861943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_165
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3401
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d346e9385f66e830800000000000000
+      internalID: 4100086935486612439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_166
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 3455
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a7e5bb93543dd0210800000000000000
+      internalID: 1300928161654726266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_167
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 3401
+        width: 44
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba0c4808750c54d50800000000000000
+      internalID: 6720989500971204779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_168
+      rect:
+        serializedVersion: 2
+        x: 248
+        y: 3156
+        width: 40
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a777f36d7ff3bce80800000000000000
+      internalID: -8157355966367565958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_169
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3178
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89b1b7f40debf1840800000000000000
+      internalID: 5197082296904784792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_170
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 3178
+        width: 27
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b5f5e4375553cde0800000000000000
+      internalID: -1314112833224051277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_171
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 3098
+        width: 79
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd97cabe4a22eb740800000000000000
+      internalID: 5169607513991838173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_172
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3152
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50d415de61bb955d0800000000000000
+      internalID: -3073219563558449915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_173
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3000
+        width: 387
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0645684fe9f1f8310800000000000000
+      internalID: 1409379975957992544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_174
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 3152
+        width: 124
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6844617c78c605620800000000000000
+      internalID: 2760825901994624134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_175
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 3025
+        width: 93
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 23f8ed76e4bb7c610800000000000000
+      internalID: 1641486534624317234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_176
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 3102
+        width: 88
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42968924e4df8ab20800000000000000
+      internalID: 3146042852284852516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_177
+      rect:
+        serializedVersion: 2
+        x: 1783
+        y: 3004
+        width: 696
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d008838d146246710800000000000000
+      internalID: 1685514224785719309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_178
+      rect:
+        serializedVersion: 2
+        x: 2666
+        y: 2915
+        width: 330
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 053b5a5c347669020800000000000000
+      internalID: 2348177796496733008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_179
+      rect:
+        serializedVersion: 2
+        x: 2813
+        y: 3178
+        width: 40
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a721c971d54f1a6b0800000000000000
+      internalID: -5286675806891011462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_180
+      rect:
+        serializedVersion: 2
+        x: 3148
+        y: 3024
+        width: 120
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b9729ae3308314290800000000000000
+      internalID: -7907977884098549861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_181
+      rect:
+        serializedVersion: 2
+        x: 3393
+        y: 3172
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf206c3e063821660800000000000000
+      internalID: 7355085593610945275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_182
+      rect:
+        serializedVersion: 2
+        x: 3420
+        y: 3165
+        width: 45
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c308e30db4b00c0800000000000000
+      internalID: -4608506435909698406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_183
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 3151
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ca0f90d4531228b0800000000000000
+      internalID: -5178555366524384575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_184
+      rect:
+        serializedVersion: 2
+        x: 3604
+        y: 3116
+        width: 93
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc635b49b2def4880800000000000000
+      internalID: -8624413989956929844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_185
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2920
+        width: 268
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d64e95c31b7a62ae0800000000000000
+      internalID: -1574386640055835539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_186
+      rect:
+        serializedVersion: 2
+        x: 631
+        y: 3112
+        width: 51
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8af92cd187fa1d430800000000000000
+      internalID: 3806016090535010216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_187
+      rect:
+        serializedVersion: 2
+        x: 1203
+        y: 2911
+        width: 271
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4004158cd3bed7c0800000000000000
+      internalID: -4044597655625269172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_188
+      rect:
+        serializedVersion: 2
+        x: 3697
+        y: 2915
+        width: 173
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0cef399d838283450800000000000000
+      internalID: 6068644722515377856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_189
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 3025
+        width: 27
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fff6f020b902cdd30800000000000000
+      internalID: 4457473581316534271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_190
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 2955
+        width: 158
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f14b110954250dc0800000000000000
+      internalID: -3673489956361518603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_191
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 2955
+        width: 89
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf38ad8d8bdbc23d0800000000000000
+      internalID: -3229998231121656837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_192
+      rect:
+        serializedVersion: 2
+        x: 3380
+        y: 3024
+        width: 58
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 50cbd761bf9569890800000000000000
+      internalID: -7451669598488904699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_193
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 3019
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15194a58941812c30800000000000000
+      internalID: 4332886469281878353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_194
+      rect:
+        serializedVersion: 2
+        x: 3483
+        y: 3009
+        width: 38
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 25c45377c9eada950800000000000000
+      internalID: 6462013027384642642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_195
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 2982
+        width: 22
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: acf1bd160963c82d0800000000000000
+      internalID: -3275182835260252214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_196
+      rect:
+        serializedVersion: 2
+        x: 1479
+        y: 2964
+        width: 49
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40a81e9c5152b95e0800000000000000
+      internalID: -1901885642122360316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_197
+      rect:
+        serializedVersion: 2
+        x: 3523
+        y: 2995
+        width: 66
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f8e2acfd6088d2bf0800000000000000
+      internalID: -347472033131909489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_198
+      rect:
+        serializedVersion: 2
+        x: 3590
+        y: 2911
+        width: 226
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7ca52df448565fb0800000000000000
+      internalID: -4659439711140074372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_199
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 2969
+        width: 45
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d021f6e2a590c9690800000000000000
+      internalID: -7594184588722761203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_200
+      rect:
+        serializedVersion: 2
+        x: 1818
+        y: 2955
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4ed06a32d43099460800000000000000
+      internalID: 7248828705074974180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_201
+      rect:
+        serializedVersion: 2
+        x: 1774
+        y: 2951
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8f48c57257fe8620800000000000000
+      internalID: 2778429953669615502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_202
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2509
+        width: 89
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29b9d9afb2f7da1d0800000000000000
+      internalID: -3337871921946715246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_203
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2491
+        width: 695
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c23c51d1cbedf02f0800000000000000
+      internalID: -1004339292357147860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_204
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 2447
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00d032591b49221a0800000000000000
+      internalID: -6835737793962767104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_205
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2442
+        width: 62
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d72c3e2dc4473e200800000000000000
+      internalID: 208137881093653117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_206
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2215
+        width: 84
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e0d012f9fde6f0ef0800000000000000
+      internalID: -139771156698690290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_207
+      rect:
+        serializedVersion: 2
+        x: 359
+        y: 2152
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4217a1747c7f44890800000000000000
+      internalID: -7474577046264712924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_208
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2170
+        width: 80
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4099fb118486a63d0800000000000000
+      internalID: -3212640725430724348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_209
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 2063
+        width: 704
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89694adeb492eac30800000000000000
+      internalID: 4372477694309602968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_210
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1978
+        width: 295
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1958fac0981f4da40800000000000000
+      internalID: 5392200224794969489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_211
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2081
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d947546128a3ad00800000000000000
+      internalID: 982814005067729362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_212
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2023
+        width: 81
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14e49b73d65a6ad80800000000000000
+      internalID: -8239716579722834367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_213
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1827
+        width: 303
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c77c34583609745c0800000000000000
+      internalID: -4231254567779317892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_214
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 2042
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7360455656b5c8870800000000000000
+      internalID: 8686418272340674103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_215
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2014
+        width: 58
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: baec74833b836df70800000000000000
+      internalID: 9211612430227459755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_216
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 926
+        width: 451
+        height: 660
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db27d3d82ae11e8a0800000000000000
+      internalID: -6277702722074611011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_217
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1508
+        width: 89
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6a5210ca75f087d10800000000000000
+      internalID: 2123464093527516582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_218
+      rect:
+        serializedVersion: 2
+        x: 1680
+        y: 1410
+        width: 303
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 231a8f97393aa0c40800000000000000
+      internalID: 5479371750451487026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_219
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1189
+        width: 365
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 312ed039086e1f2f0800000000000000
+      internalID: -940717407246360045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_220
+      rect:
+        serializedVersion: 2
+        x: 1586
+        y: 1354
+        width: 152
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ee8488973019eb70800000000000000
+      internalID: 8928685567206788837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_221
+      rect:
+        serializedVersion: 2
+        x: 2305
+        y: 810
+        width: 227
+        height: 560
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d1b989b96e1d3450800000000000000
+      internalID: 6070041312198504921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_222
+      rect:
+        serializedVersion: 2
+        x: 1394
+        y: 894
+        width: 232
+        height: 362
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ba16dbd70e8d199c0800000000000000
+      internalID: -3922115341769154133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_223
+      rect:
+        serializedVersion: 2
+        x: 1872
+        y: 918
+        width: 231
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46b9085fe3080a420800000000000000
+      internalID: 2639250389534284644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_224
+      rect:
+        serializedVersion: 2
+        x: 3211
+        y: 1082
+        width: 289
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eaf5db865ff850ca0800000000000000
+      internalID: -6051272240115392594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_225
+      rect:
+        serializedVersion: 2
+        x: 3719
+        y: 1149
+        width: 406
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97196e476763c8da0800000000000000
+      internalID: -5941313926013218439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_226
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 680
+        width: 414
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2412ee4003ecc28f0800000000000000
+      internalID: -563849147691687614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_227
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 827
+        width: 76
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33e0719ac31df790800000000000000
+      internalID: -7494812444130221253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_228
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 836
+        width: 82
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 73d33fff39af819b0800000000000000
+      internalID: -5109058263690560201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_229
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 810
+        width: 79
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f0a694174478a440800000000000000
+      internalID: 4947332039303405815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_230
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 738
+        width: 366
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 95f25167f64284ca0800000000000000
+      internalID: -6032531639721709735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_231
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 765
+        width: 205
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e43e6fbf86292390800000000000000
+      internalID: -7842694877255158557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_232
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 765
+        width: 80
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f7d8b96a95d1ae00800000000000000
+      internalID: 1054358646956808180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_233
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 663
+        width: 58
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cbd1ad907cda1c7f0800000000000000
+      internalID: -594002605460808260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_234
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 591
+        width: 57
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7733fd87aa28b5f40800000000000000
+      internalID: 5718307820560921463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_235
+      rect:
+        serializedVersion: 2
+        x: 993
+        y: 649
+        width: 76
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21c7ff94f65133290800000000000000
+      internalID: -7911956552632796142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_236
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 582
+        width: 58
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e29669ea36b037f0800000000000000
+      internalID: -634807183319067936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_237
+      rect:
+        serializedVersion: 2
+        x: 3242
+        y: 390
+        width: 200
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac49b2ed6e7f67050800000000000000
+      internalID: 5798094141228029130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: katagod_238
+      rect:
+        serializedVersion: 2
+        x: 3782
+        y: 395
+        width: 316
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cdd2786090c5eba0800000000000000
+      internalID: -6060225997096952378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

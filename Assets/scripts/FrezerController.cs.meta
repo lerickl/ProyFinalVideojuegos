@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: 0e91973011ba0ec48ade5edaaa548702
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - sonidoCuerpoxCuerpo: {instanceID: 0}
+  - sonidotransporte: {instanceID: 0}
+  - Rayos_cuerpoxcuerpo_derecha: {instanceID: 0}
+  - Rayos_cuerpoxcuerpo_izquierda: {instanceID: 0}
+  - superN: {instanceID: 0}
+  - superND: {instanceID: 0}
+  - RayoMortalO: {instanceID: 0}
+  - RayoMortalOD: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

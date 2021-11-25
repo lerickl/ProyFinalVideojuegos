@@ -1,0 +1,921 @@
+fileFormatVersion: 2
+guid: 2f2113e4b57f4e04eb1922fd6411c57d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6302651486123905851
+    second: doff4_9
+  - first:
+      213: -9124626766851342333
+    second: doff4_10
+  - first:
+      213: 3237524395479734447
+    second: doff4_2
+  - first:
+      213: -2811776738444285739
+    second: doff4_3
+  - first:
+      213: 7520931637595300701
+    second: doff4_4
+  - first:
+      213: -1008949049776742366
+    second: doff4_5
+  - first:
+      213: -6973340406339958903
+    second: doff4_6
+  - first:
+      213: -4660137429648863207
+    second: doff4_7
+  - first:
+      213: -9027371895845889534
+    second: doff4_8
+  - first:
+      213: 1031408002642547293
+    second: doff4_9
+  - first:
+      213: 6506462245710574997
+    second: doff4_10
+  - first:
+      213: -8934221967198093147
+    second: doff4_11
+  - first:
+      213: -3365178999921929793
+    second: doff4_12
+  - first:
+      213: 8276953809688376087
+    second: doff4_13
+  - first:
+      213: 4192718005671100256
+    second: doff4_14
+  - first:
+      213: 2336814263501676523
+    second: doff4_15
+  - first:
+      213: 1302269846347091900
+    second: doff4_16
+  - first:
+      213: -6562432201380049142
+    second: doff4_17
+  - first:
+      213: -2741406222600490670
+    second: doff4_18
+  - first:
+      213: -2044527768322690703
+    second: doff4_19
+  - first:
+      213: 8179222118528169469
+    second: doff4_20
+  - first:
+      213: 8769718012352987700
+    second: doff4_21
+  - first:
+      213: 8097246191287371411
+    second: doff4_22
+  - first:
+      213: 5303343281084385020
+    second: doff4_23
+  - first:
+      213: -777746943140700530
+    second: doff4_24
+  - first:
+      213: 459638748932877767
+    second: doff4_25
+  - first:
+      213: -5563186765539573055
+    second: doff4_26
+  - first:
+      213: 1611645945773822089
+    second: doff4_27
+  - first:
+      213: 2708964454973752787
+    second: doff4_28
+  - first:
+      213: -4383467102807349971
+    second: doff4_29
+  - first:
+      213: -5655132079733452287
+    second: doff4_30
+  - first:
+      213: 6320529567079999987
+    second: doff4_31
+  - first:
+      213: -2530502368783154839
+    second: doff4_32
+  - first:
+      213: -8199374999230972840
+    second: doff4_33
+  - first:
+      213: 4355676849069647960
+    second: doff4_34
+  - first:
+      213: -6539728439961039617
+    second: doff4_35
+  - first:
+      213: -8576369474234989310
+    second: doff4_36
+  - first:
+      213: -3021948409510447945
+    second: doff4_37
+  - first:
+      213: 7497538569049722568
+    second: doff4_38
+  - first:
+      213: -9080097282732798864
+    second: doff4_39
+  - first:
+      213: 2236601239872896341
+    second: doff4_40
+  - first:
+      213: -1511637731576742519
+    second: doff4_41
+  - first:
+      213: 61139231649613528
+    second: doff4_42
+  - first:
+      213: 4345305853832219325
+    second: doff4_43
+  - first:
+      213: 6291301654666961549
+    second: doff4_44
+  - first:
+      213: -6524218912443654029
+    second: doff4_45
+  - first:
+      213: -2375979057483646667
+    second: doff4_46
+  - first:
+      213: -7164960104261283029
+    second: doff4_47
+  - first:
+      213: 6005527314267057156
+    second: doff4_48
+  - first:
+      213: -5593333326236009009
+    second: doff4_49
+  - first:
+      213: -7870786025348932402
+    second: doff4_50
+  - first:
+      213: -308971843420675668
+    second: doff4_51
+  - first:
+      213: -150485592281378532
+    second: doff4_52
+  - first:
+      213: 4050673557786638233
+    second: doff4_53
+  - first:
+      213: -705277736891467832
+    second: doff4_54
+  - first:
+      213: -3992681150708661627
+    second: doff4_55
+  - first:
+      213: 3636990367335127602
+    second: doff4_56
+  - first:
+      213: 4149666093855235046
+    second: doff4_57
+  - first:
+      213: -8277634115414252641
+    second: doff4_58
+  - first:
+      213: 1807825148391722107
+    second: doff4_59
+  - first:
+      213: -1118544088993432952
+    second: doff4_60
+  - first:
+      213: -1104181233661106543
+    second: doff4_61
+  - first:
+      213: -7326617230029215848
+    second: doff4_62
+  - first:
+      213: -1321886385365490894
+    second: doff4_63
+  - first:
+      213: 3474513652804928960
+    second: doff4_64
+  - first:
+      213: 5674963799934876883
+    second: doff4_65
+  - first:
+      213: 8774281247521493480
+    second: doff4_66
+  - first:
+      213: 4416195334710798359
+    second: doff4_67
+  - first:
+      213: -7152011894437000807
+    second: doff4_68
+  - first:
+      213: -1759286368646913807
+    second: doff4_69
+  - first:
+      213: -3964513545949657112
+    second: doff4_70
+  - first:
+      213: -6260784237774348584
+    second: doff4_71
+  - first:
+      213: 3964223605490191906
+    second: doff4_72
+  - first:
+      213: -4414811013154439183
+    second: doff4_73
+  - first:
+      213: 6416708556143619388
+    second: doff4_74
+  - first:
+      213: 7581734893852746469
+    second: doff4_75
+  - first:
+      213: -4995670418328444111
+    second: doff4_76
+  - first:
+      213: -591662630354850786
+    second: doff4_77
+  - first:
+      213: 5420597968701678196
+    second: doff4_78
+  - first:
+      213: -1840850541604309496
+    second: doff4_79
+  - first:
+      213: 9006867487165428291
+    second: doff4_80
+  - first:
+      213: -8299455086508979249
+    second: doff4_81
+  - first:
+      213: -8945284127707245563
+    second: doff4_82
+  - first:
+      213: 8852586280802951153
+    second: doff4_83
+  - first:
+      213: 6058466397385614370
+    second: doff4_84
+  - first:
+      213: 418996142868028515
+    second: doff4_85
+  - first:
+      213: 1751792719896419532
+    second: doff4_86
+  - first:
+      213: -4578216787268144478
+    second: doff4_87
+  - first:
+      213: 7651766472200186519
+    second: doff4_88
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doff4_9
+      rect:
+        serializedVersion: 2
+        x: 2473
+        y: 3227
+        width: 1155
+        height: 923
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b33d08d3224877750800000000000000
+      internalID: 6302651486123905851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_10
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 3191
+        width: 1326
+        height: 1309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3000ec5cc40de5180800000000000000
+      internalID: -9124626766851342333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_7
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 3226
+        width: 492
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 910174db2bdd35fb0800000000000000
+      internalID: -4660137429648863207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_8
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 3218
+        width: 746
+        height: 690
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20ad2ccf61558b280800000000000000
+      internalID: -9027371895845889534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_17
+      rect:
+        serializedVersion: 2
+        x: 5115
+        y: 3226
+        width: 774
+        height: 706
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a0f482e9eae8de4a0800000000000000
+      internalID: -6562432201380049142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_68
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 2155
+        width: 687
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 999c6b23313febc90800000000000000
+      internalID: -7152011894437000807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_69
+      rect:
+        serializedVersion: 2
+        x: 1834
+        y: 2155
+        width: 676
+        height: 769
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1f02d9a6e52c597e0800000000000000
+      internalID: -1759286368646913807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_70
+      rect:
+        serializedVersion: 2
+        x: 2600
+        y: 2155
+        width: 714
+        height: 859
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e742725fe73bf8c0800000000000000
+      internalID: -3964513545949657112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_71
+      rect:
+        serializedVersion: 2
+        x: 3404
+        y: 2155
+        width: 746
+        height: 894
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8de581428e93d19a0800000000000000
+      internalID: -6260784237774348584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_72
+      rect:
+        serializedVersion: 2
+        x: 4240
+        y: 2155
+        width: 558
+        height: 746
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 22e0677ad50c30730800000000000000
+      internalID: 3964223605490191906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_73
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 2155
+        width: 289
+        height: 159
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff727236c07bb2c0800000000000000
+      internalID: -4414811013154439183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_74
+      rect:
+        serializedVersion: 2
+        x: 5268
+        y: 2155
+        width: 218
+        height: 921
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3d66244f6abc0950800000000000000
+      internalID: 6416708556143619388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_75
+      rect:
+        serializedVersion: 2
+        x: 5576
+        y: 2155
+        width: 218
+        height: 742
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2e64957bbb73960800000000000000
+      internalID: 7581734893852746469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_76
+      rect:
+        serializedVersion: 2
+        x: 5883
+        y: 2155
+        width: 279
+        height: 460
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1332b940930dbaab0800000000000000
+      internalID: -4995670418328444111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_77
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 1214
+        width: 785
+        height: 792
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1c63d2f8fdf9c7f0800000000000000
+      internalID: -591662630354850786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_78
+      rect:
+        serializedVersion: 2
+        x: 1932
+        y: 1214
+        width: 781
+        height: 768
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 472eaaa0225d93b40800000000000000
+      internalID: 5420597968701678196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_79
+      rect:
+        serializedVersion: 2
+        x: 2803
+        y: 1214
+        width: 1050
+        height: 710
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 806f6178f2cf376e0800000000000000
+      internalID: -1840850541604309496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_80
+      rect:
+        serializedVersion: 2
+        x: 3943
+        y: 1214
+        width: 582
+        height: 604
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 342b2875242defc70800000000000000
+      internalID: 9006867487165428291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_81
+      rect:
+        serializedVersion: 2
+        x: 1057
+        y: 88
+        width: 728
+        height: 542
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fcbc25b329962dc80800000000000000
+      internalID: -8299455086508979249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_82
+      rect:
+        serializedVersion: 2
+        x: 1874
+        y: 88
+        width: 706
+        height: 621
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 504d111ea77fbd380800000000000000
+      internalID: -8945284127707245563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_83
+      rect:
+        serializedVersion: 2
+        x: 2670
+        y: 88
+        width: 640
+        height: 977
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ff91c2c154bada70800000000000000
+      internalID: 8852586280802951153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_84
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 88
+        width: 664
+        height: 762
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2246fcbd61ff31450800000000000000
+      internalID: 6058466397385614370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_85
+      rect:
+        serializedVersion: 2
+        x: 4154
+        y: 88
+        width: 567
+        height: 496
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36c58e1a5c290d500800000000000000
+      internalID: 418996142868028515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_86
+      rect:
+        serializedVersion: 2
+        x: 4811
+        y: 147
+        width: 479
+        height: 659
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ccc9a85823e9f4810800000000000000
+      internalID: 1751792719896419532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_87
+      rect:
+        serializedVersion: 2
+        x: 5748
+        y: 88
+        width: 598
+        height: 668
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2a2f622a618e670c0800000000000000
+      internalID: -4578216787268144478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff4_88
+      rect:
+        serializedVersion: 2
+        x: 5643
+        y: 88
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79a6cbfc019803a60800000000000000
+      internalID: 7651766472200186519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3516 @@
+fileFormatVersion: 2
+guid: f2975777c53331b46adf6af259edeca6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5889935817756846525
+    second: LUFFYDres_0
+  - first:
+      213: -6195328502738452167
+    second: LUFFYDres_1
+  - first:
+      213: 2303449684066660567
+    second: LUFFYDres_2
+  - first:
+      213: 4895019171133077364
+    second: LUFFYDres_3
+  - first:
+      213: -3707139744827764137
+    second: LUFFYDres_4
+  - first:
+      213: -9138183598260905433
+    second: LUFFYDres_5
+  - first:
+      213: 5863885210318642395
+    second: LUFFYDres_6
+  - first:
+      213: 3993910945786749496
+    second: LUFFYDres_7
+  - first:
+      213: -6511097936312779707
+    second: LUFFYDres_8
+  - first:
+      213: -3657127584138826529
+    second: LUFFYDres_9
+  - first:
+      213: 4782702912148368354
+    second: LUFFYDres_10
+  - first:
+      213: 638554448875167994
+    second: LUFFYDres_11
+  - first:
+      213: 7094640660652329853
+    second: LUFFYDres_12
+  - first:
+      213: 6487059119570722417
+    second: LUFFYDres_13
+  - first:
+      213: -4395504415890526357
+    second: LUFFYDres_14
+  - first:
+      213: -3527250367472052856
+    second: LUFFYDres_15
+  - first:
+      213: 1945857097244564728
+    second: LUFFYDres_16
+  - first:
+      213: 3702809075058544449
+    second: LUFFYDres_17
+  - first:
+      213: -8142887183400707076
+    second: LUFFYDres_18
+  - first:
+      213: -671090934866778150
+    second: LUFFYDres_19
+  - first:
+      213: 4836091332055012615
+    second: LUFFYDres_20
+  - first:
+      213: 6547881941957746595
+    second: LUFFYDres_21
+  - first:
+      213: 6863848223215287051
+    second: LUFFYDres_22
+  - first:
+      213: -6902667441377553136
+    second: LUFFYDres_23
+  - first:
+      213: 5279723986093062693
+    second: LUFFYDres_24
+  - first:
+      213: 2870140272085337345
+    second: LUFFYDres_25
+  - first:
+      213: 8334289885129655689
+    second: LUFFYDres_26
+  - first:
+      213: 3514041316058896049
+    second: LUFFYDres_27
+  - first:
+      213: 4984703252711775951
+    second: LUFFYDres_28
+  - first:
+      213: -6847307650741222948
+    second: LUFFYDres_29
+  - first:
+      213: -8776252652646194914
+    second: LUFFYDres_30
+  - first:
+      213: -2588678281098273553
+    second: LUFFYDres_31
+  - first:
+      213: -1418567297470872943
+    second: LUFFYDres_32
+  - first:
+      213: 6013337602606562407
+    second: LUFFYDres_33
+  - first:
+      213: -7400423810945608628
+    second: LUFFYDres_34
+  - first:
+      213: -3791603127802421227
+    second: LUFFYDres_35
+  - first:
+      213: -6610255400968745655
+    second: LUFFYDres_36
+  - first:
+      213: -2866221669962057144
+    second: LUFFYDres_37
+  - first:
+      213: 8912065586189676556
+    second: LUFFYDres_38
+  - first:
+      213: -911564580131745018
+    second: LUFFYDres_39
+  - first:
+      213: 3260752878324802656
+    second: LUFFYDres_40
+  - first:
+      213: 8375062901636996992
+    second: LUFFYDres_41
+  - first:
+      213: -2204444014103533159
+    second: LUFFYDres_42
+  - first:
+      213: 6165441716652428006
+    second: LUFFYDres_43
+  - first:
+      213: 6767897410567024097
+    second: LUFFYDres_44
+  - first:
+      213: -4168940206444000612
+    second: LUFFYDres_45
+  - first:
+      213: 8439480635125975290
+    second: LUFFYDres_46
+  - first:
+      213: -4814785207028027576
+    second: LUFFYDres_47
+  - first:
+      213: 3957878617188526728
+    second: LUFFYDres_48
+  - first:
+      213: 1843254276061309193
+    second: LUFFYDres_49
+  - first:
+      213: -5078345627885514904
+    second: LUFFYDres_50
+  - first:
+      213: -4344493370820239659
+    second: LUFFYDres_51
+  - first:
+      213: -3833116361715261009
+    second: LUFFYDres_52
+  - first:
+      213: 3720575561126326732
+    second: LUFFYDres_53
+  - first:
+      213: 4086255514604793894
+    second: LUFFYDres_54
+  - first:
+      213: 4374300005533136605
+    second: LUFFYDres_55
+  - first:
+      213: 8728790272608906462
+    second: LUFFYDres_56
+  - first:
+      213: 2323699191182644542
+    second: LUFFYDres_57
+  - first:
+      213: -3705986284845197676
+    second: LUFFYDres_58
+  - first:
+      213: -5880053190163104864
+    second: LUFFYDres_59
+  - first:
+      213: -8528117430601146709
+    second: LUFFYDres_60
+  - first:
+      213: 3662544872222198663
+    second: LUFFYDres_61
+  - first:
+      213: 9081549644574229669
+    second: LUFFYDres_62
+  - first:
+      213: -3634879627475756987
+    second: LUFFYDres_63
+  - first:
+      213: -824769814977755243
+    second: LUFFYDres_64
+  - first:
+      213: -3374232146948731843
+    second: LUFFYDres_65
+  - first:
+      213: 3407898289229363235
+    second: LUFFYDres_66
+  - first:
+      213: -5280664562445581905
+    second: LUFFYDres_67
+  - first:
+      213: 5722530855086977396
+    second: LUFFYDres_68
+  - first:
+      213: -2122411405633308252
+    second: LUFFYDres_69
+  - first:
+      213: -3685544060639293983
+    second: LUFFYDres_70
+  - first:
+      213: -7187704479081299236
+    second: LUFFYDres_71
+  - first:
+      213: -1197239181450831698
+    second: LUFFYDres_72
+  - first:
+      213: -454548885922973453
+    second: LUFFYDres_73
+  - first:
+      213: -8086187119173503648
+    second: LUFFYDres_74
+  - first:
+      213: 2151642325813040444
+    second: LUFFYDres_75
+  - first:
+      213: -6906593556527361046
+    second: LUFFYDres_76
+  - first:
+      213: -8907923306816916579
+    second: LUFFYDres_77
+  - first:
+      213: 5676487081830171142
+    second: LUFFYDres_78
+  - first:
+      213: 4836929263859047849
+    second: LUFFYDres_79
+  - first:
+      213: 5451031174929799695
+    second: LUFFYDres_80
+  - first:
+      213: 4725075108852315595
+    second: LUFFYDres_81
+  - first:
+      213: -7898076386648778990
+    second: LUFFYDres_82
+  - first:
+      213: -1549868469754870722
+    second: LUFFYDres_83
+  - first:
+      213: 2365166586249479814
+    second: LUFFYDres_84
+  - first:
+      213: -5827207076421730100
+    second: LUFFYDres_85
+  - first:
+      213: 4138655412614364208
+    second: LUFFYDres_86
+  - first:
+      213: 6721004736468831033
+    second: LUFFYDres_87
+  - first:
+      213: 2599645214172372914
+    second: LUFFYDres_88
+  - first:
+      213: -5531441956230722042
+    second: LUFFYDres_89
+  - first:
+      213: 6718298735536224504
+    second: LUFFYDres_90
+  - first:
+      213: -5959940357855613147
+    second: LUFFYDres_91
+  - first:
+      213: -305462217552020670
+    second: LUFFYDres_92
+  - first:
+      213: -6625987278162473239
+    second: LUFFYDres_93
+  - first:
+      213: 4402977413471636092
+    second: LUFFYDres_94
+  - first:
+      213: 6113889173102417666
+    second: LUFFYDres_95
+  - first:
+      213: -6672672874799399662
+    second: LUFFYDres_96
+  - first:
+      213: -4765737232774239469
+    second: LUFFYDres_97
+  - first:
+      213: -8355633449578044063
+    second: LUFFYDres_98
+  - first:
+      213: -504604101313256706
+    second: LUFFYDres_99
+  - first:
+      213: -978837430397953276
+    second: LUFFYDres_100
+  - first:
+      213: -8628868621117706908
+    second: LUFFYDres_101
+  - first:
+      213: -3881144022793800847
+    second: LUFFYDres_102
+  - first:
+      213: -7018778813350983963
+    second: LUFFYDres_103
+  - first:
+      213: 1409673556350875503
+    second: LUFFYDres_104
+  - first:
+      213: 1375497948463333933
+    second: LUFFYDres_105
+  - first:
+      213: -615624728886583891
+    second: LUFFYDres_106
+  - first:
+      213: 7902486505166887997
+    second: LUFFYDres_107
+  - first:
+      213: 7872741855848238257
+    second: LUFFYDres_108
+  - first:
+      213: -5294799260825590427
+    second: LUFFYDres_109
+  - first:
+      213: 261215004336624059
+    second: LUFFYDres_110
+  - first:
+      213: -1943437901880164339
+    second: LUFFYDres_111
+  - first:
+      213: 1757336418828275102
+    second: LUFFYDres_112
+  - first:
+      213: 6104808537049546607
+    second: LUFFYDres_113
+  - first:
+      213: -7681884078639184494
+    second: LUFFYDres_114
+  - first:
+      213: 1677114811759143756
+    second: LUFFYDres_115
+  - first:
+      213: 1057878500622347374
+    second: LUFFYDres_116
+  - first:
+      213: -7059286224126581595
+    second: LUFFYDres_117
+  - first:
+      213: -4648868447767797976
+    second: LUFFYDres_118
+  - first:
+      213: 1118341942963556464
+    second: LUFFYDres_119
+  - first:
+      213: 1304498736716999131
+    second: LUFFYDres_120
+  - first:
+      213: 1030462757475611349
+    second: LUFFYDres_121
+  - first:
+      213: -8566544039057539200
+    second: LUFFYDres_122
+  - first:
+      213: 1917895979550321071
+    second: LUFFYDres_123
+  - first:
+      213: -3834189267153517928
+    second: LUFFYDres_124
+  - first:
+      213: 7292261351161378592
+    second: LUFFYDres_125
+  - first:
+      213: -4984058733267465473
+    second: LUFFYDres_126
+  - first:
+      213: -445627836974173765
+    second: LUFFYDres_127
+  - first:
+      213: 1148332355718587471
+    second: LUFFYDres_128
+  - first:
+      213: -7899182194060547906
+    second: LUFFYDres_129
+  - first:
+      213: 1394776881874027750
+    second: LUFFYDres_130
+  - first:
+      213: -450041328083586172
+    second: LUFFYDres_131
+  - first:
+      213: -8017431248679418877
+    second: LUFFYDres_132
+  - first:
+      213: 4371571157379484291
+    second: LUFFYDres_133
+  - first:
+      213: 7342687676131761375
+    second: LUFFYDres_134
+  - first:
+      213: -442430071493143569
+    second: LUFFYDres_135
+  - first:
+      213: 1370462760240235738
+    second: LUFFYDres_136
+  - first:
+      213: 7495494833684257631
+    second: LUFFYDres_137
+  - first:
+      213: -5734536013057632370
+    second: LUFFYDres_138
+  - first:
+      213: 2854644437967123674
+    second: LUFFYDres_139
+  - first:
+      213: 3821417333519322398
+    second: LUFFYDres_140
+  - first:
+      213: -6767805048756559952
+    second: LUFFYDres_141
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: LUFFYDres_0
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3075
+        width: 129
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346d0c8749eb24ea0800000000000000
+      internalID: -5889935817756846525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_1
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3075
+        width: 132
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9310c6f0d85c50aa0800000000000000
+      internalID: -6195328502738452167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_2
+      rect:
+        serializedVersion: 2
+        x: 330
+        y: 3075
+        width: 134
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d077c0984f77ff10800000000000000
+      internalID: 2303449684066660567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_3
+      rect:
+        serializedVersion: 2
+        x: 2102
+        y: 3201
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4773d10500a9ee340800000000000000
+      internalID: 4895019171133077364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_4
+      rect:
+        serializedVersion: 2
+        x: 2134
+        y: 3191
+        width: 91
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7521fc81b089d8cc0800000000000000
+      internalID: -3707139744827764137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_5
+      rect:
+        serializedVersion: 2
+        x: 2237
+        y: 3201
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 72a9b5dfe66ae2180800000000000000
+      internalID: -9138183598260905433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_6
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 3201
+        width: 28
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdc95b4d784b06150800000000000000
+      internalID: 5863885210318642395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_7
+      rect:
+        serializedVersion: 2
+        x: 2350
+        y: 3201
+        width: 75
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 832e92438d83d6730800000000000000
+      internalID: 3993910945786749496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_8
+      rect:
+        serializedVersion: 2
+        x: 2428
+        y: 3201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 54c3c489ceee3a5a0800000000000000
+      internalID: -6511097936312779707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_9
+      rect:
+        serializedVersion: 2
+        x: 2458
+        y: 3201
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdc6f19a6d54f3dc0800000000000000
+      internalID: -3657127584138826529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_10
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 3191
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2eb64d075f29f5240800000000000000
+      internalID: 4782702912148368354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_11
+      rect:
+        serializedVersion: 2
+        x: 2570
+        y: 3201
+        width: 26
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af023f653e99cd800800000000000000
+      internalID: 638554448875167994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_12
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3201
+        width: 30
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b8933871a357260800000000000000
+      internalID: 7094640660652329853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_13
+      rect:
+        serializedVersion: 2
+        x: 2631
+        y: 3201
+        width: 26
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e98fa36e9a60a50800000000000000
+      internalID: 6487059119570722417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_14
+      rect:
+        serializedVersion: 2
+        x: 2661
+        y: 3201
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6f2f2aa5080003c0800000000000000
+      internalID: -4395504415890526357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_15
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 3201
+        width: 31
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88556fc9a70bc0fc0800000000000000
+      internalID: -3527250367472052856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_16
+      rect:
+        serializedVersion: 2
+        x: 2717
+        y: 3191
+        width: 43
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8fc5fe868b2110b10800000000000000
+      internalID: 1945857097244564728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_17
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2878
+        width: 126
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14f05f54c35036330800000000000000
+      internalID: 3702809075058544449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_18
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2878
+        width: 138
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfbd153ef37aefe80800000000000000
+      internalID: -8142887183400707076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_19
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2883
+        width: 163
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad7e74fa95ecfa6f0800000000000000
+      internalID: -671090934866778150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_20
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 2878
+        width: 134
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7051c7c917f3d1340800000000000000
+      internalID: 4836091332055012615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_21
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2878
+        width: 124
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3af169d1fefbeda50800000000000000
+      internalID: 6547881941957746595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_22
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 2878
+        width: 147
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b0b71f0c799414f50800000000000000
+      internalID: 6863848223215287051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_23
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2885
+        width: 159
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0155902b88cc430a0800000000000000
+      internalID: -6902667441377553136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_24
+      rect:
+        serializedVersion: 2
+        x: 1187
+        y: 2878
+        width: 132
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52abf2ffdf8554940800000000000000
+      internalID: 5279723986093062693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_25
+      rect:
+        serializedVersion: 2
+        x: 1391
+        y: 2885
+        width: 186
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 105803dee59c4d720800000000000000
+      internalID: 2870140272085337345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_26
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 2888
+        width: 198
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 985c84a5e7859a370800000000000000
+      internalID: 8334289885129655689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_27
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 2883
+        width: 156
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1b69cb175f164c030800000000000000
+      internalID: 3514041316058896049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_28
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2650
+        width: 97
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fce9e90c2393d2540800000000000000
+      internalID: 4984703252711775951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_29
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2642
+        width: 96
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd141c168f979f0a0800000000000000
+      internalID: -6847307650741222948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_30
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2675
+        width: 114
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e11a1f306bc743680800000000000000
+      internalID: -8776252652646194914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_31
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2642
+        width: 112
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec5e5991da231cd0800000000000000
+      internalID: -2588678281098273553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_32
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 2642
+        width: 113
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 19243401f8c305ce0800000000000000
+      internalID: -1418567297470872943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_33
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2642
+        width: 98
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76cfcd580baa37350800000000000000
+      internalID: 6013337602606562407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_34
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2434
+        width: 140
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c449e39c0c96c4990800000000000000
+      internalID: -7400423810945608628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_35
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2434
+        width: 99
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 510a3164b05816bc0800000000000000
+      internalID: -3791603127802421227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_36
+      rect:
+        serializedVersion: 2
+        x: 343
+        y: 2460
+        width: 112
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 94d86a64cb7a344a0800000000000000
+      internalID: -6610255400968745655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_37
+      rect:
+        serializedVersion: 2
+        x: 498
+        y: 2451
+        width: 203
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84a726ab3922938d0800000000000000
+      internalID: -2866221669962057144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_38
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2452
+        width: 207
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c00b1d7be640eab70800000000000000
+      internalID: 8912065586189676556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_39
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 2460
+        width: 204
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6035b6318d87953f0800000000000000
+      internalID: -911564580131745018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_40
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 2451
+        width: 203
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 064e1e47775804d20800000000000000
+      internalID: 3260752878324802656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_41
+      rect:
+        serializedVersion: 2
+        x: 1396
+        y: 2456
+        width: 191
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f10a706533a3470800000000000000
+      internalID: 8375062901636996992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_42
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 2434
+        width: 196
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9996f1c49dd3861e0800000000000000
+      internalID: -2204444014103533159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_43
+      rect:
+        serializedVersion: 2
+        x: 1815
+        y: 2434
+        width: 133
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ea417c439c009550800000000000000
+      internalID: 6165441716652428006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_44
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 2434
+        width: 116
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed222946d66ced50800000000000000
+      internalID: 6767897410567024097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_45
+      rect:
+        serializedVersion: 2
+        x: 2115
+        y: 2434
+        width: 97
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c9acf0168f2f426c0800000000000000
+      internalID: -4168940206444000612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_46
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2199
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af8c8716cee0f1570800000000000000
+      internalID: 8439480635125975290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_47
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2202
+        width: 138
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84fe9413d527e2db0800000000000000
+      internalID: -4814785207028027576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_48
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 2208
+        width: 134
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88ae2a1f1a53de630800000000000000
+      internalID: 3957878617188526728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_49
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2202
+        width: 107
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 909aa538ffd849910800000000000000
+      internalID: 1843254276061309193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_50
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1991
+        width: 172
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 86fc933ce871689b0800000000000000
+      internalID: -5078345627885514904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_51
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1991
+        width: 280
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5de583f1c4245b3c0800000000000000
+      internalID: -4344493370820239659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_52
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1991
+        width: 229
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa1693d4af80ecac0800000000000000
+      internalID: -3833116361715261009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_53
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 2004
+        width: 143
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc13fe8a2c322a330800000000000000
+      internalID: 3720575561126326732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_54
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 2021
+        width: 217
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 620ff799dbb45b830800000000000000
+      internalID: 4086255514604793894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_55
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1754
+        width: 185
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dd6bac2dda2a4bc30800000000000000
+      internalID: 4374300005533136605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_56
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 1751
+        width: 285
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: edc2dbd7184e22970800000000000000
+      internalID: 8728790272608906462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_57
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1751
+        width: 276
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e35dd475a107f3020800000000000000
+      internalID: 2323699191182644542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_58
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1512
+        width: 152
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 496155deb11b19cc0800000000000000
+      internalID: -3705986284845197676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_59
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 1512
+        width: 130
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0abfce307cad56ea0800000000000000
+      internalID: -5880053190163104864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_60
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1512
+        width: 375
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bae933a716a06a980800000000000000
+      internalID: -8528117430601146709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_61
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 1512
+        width: 379
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b8bb20829f3d230800000000000000
+      internalID: 3662544872222198663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_62
+      rect:
+        serializedVersion: 2
+        x: 1163
+        y: 1512
+        width: 130
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a40cee1945280e70800000000000000
+      internalID: 9081549644574229669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_63
+      rect:
+        serializedVersion: 2
+        x: 1351
+        y: 1624
+        width: 145
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 548d00bbc305e8dc0800000000000000
+      internalID: -3634879627475756987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_64
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1408
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 59749cc1934dd84f0800000000000000
+      internalID: -824769814977755243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_65
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1313
+        width: 156
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3cca636db15c21d0800000000000000
+      internalID: -3374232146948731843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_66
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1313
+        width: 339
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3287d2030794b4f20800000000000000
+      internalID: 3407898289229363235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_67
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1313
+        width: 349
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa100710f8f47b6b0800000000000000
+      internalID: -5280664562445581905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_68
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1313
+        width: 365
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 471fba15e738a6f40800000000000000
+      internalID: 5722530855086977396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_69
+      rect:
+        serializedVersion: 2
+        x: 1336
+        y: 1313
+        width: 375
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a93df3521eab82e0800000000000000
+      internalID: -2122411405633308252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_70
+      rect:
+        serializedVersion: 2
+        x: 1732
+        y: 1313
+        width: 387
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ed4b8524315adcc0800000000000000
+      internalID: -3685544060639293983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_71
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1093
+        width: 408
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd200edbbd4204c90800000000000000
+      internalID: -7187704479081299236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_72
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 1097
+        width: 426
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea89176ce4d826fe0800000000000000
+      internalID: -1197239181450831698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_73
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1097
+        width: 440
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3f8f281523e11b9f0800000000000000
+      internalID: -454548885922973453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_74
+      rect:
+        serializedVersion: 2
+        x: 1438
+        y: 1087
+        width: 472
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 065f25658a718cf80800000000000000
+      internalID: -8086187119173503648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_75
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 871
+        width: 509
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3518c1ab4b2cdd10800000000000000
+      internalID: 2151642325813040444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_76
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 868
+        width: 458
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae35f27c0c9d620a0800000000000000
+      internalID: -6906593556527361046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_77
+      rect:
+        serializedVersion: 2
+        x: 1042
+        y: 858
+        width: 414
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d9331cad2f2b06480800000000000000
+      internalID: -8907923306816916579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_78
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 567
+        width: 136
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 602c494fceee6ce40800000000000000
+      internalID: 5676487081830171142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_79
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 567
+        width: 131
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ad9200d989302340800000000000000
+      internalID: 4836929263859047849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_80
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 567
+        width: 134
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0a554909f3f5ab40800000000000000
+      internalID: 5451031174929799695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_81
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 567
+        width: 139
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc5be28e6c6d29140800000000000000
+      internalID: 4725075108852315595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_82
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 567
+        width: 159
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21716e44f55646290800000000000000
+      internalID: -7898076386648778990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_83
+      rect:
+        serializedVersion: 2
+        x: 881
+        y: 567
+        width: 307
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34ceab96d2cd7ae0800000000000000
+      internalID: -1549868469754870722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_84
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 567
+        width: 509
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6860600aa72c2d020800000000000000
+      internalID: 2365166586249479814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_85
+      rect:
+        serializedVersion: 2
+        x: 1748
+        y: 567
+        width: 558
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc08d31b90a912fa0800000000000000
+      internalID: -5827207076421730100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_86
+      rect:
+        serializedVersion: 2
+        x: 2376
+        y: 567
+        width: 413
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 03c70a49b257f6930800000000000000
+      internalID: 4138655412614364208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_87
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 420
+        width: 235
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 93b41fac23ec54d50800000000000000
+      internalID: 6721004736468831033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_88
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 348
+        width: 221
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2bfd9cc7c8bc31420800000000000000
+      internalID: 2599645214172372914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_89
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 504
+        width: 26
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60e0d2ff8de5c33b0800000000000000
+      internalID: -5531441956230722042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_90
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 511
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f8b79ada113c3d50800000000000000
+      internalID: 6718298735536224504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_91
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 514
+        width: 13
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 52f608752d90a4da0800000000000000
+      internalID: -5959940357855613147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_92
+      rect:
+        serializedVersion: 2
+        x: 1313
+        y: 291
+        width: 713
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 24b32864bb7c2cbf0800000000000000
+      internalID: -305462217552020670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_93
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 291
+        width: 493
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9ee4ede2da3cb04a0800000000000000
+      internalID: -6625987278162473239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_94
+      rect:
+        serializedVersion: 2
+        x: 2566
+        y: 291
+        width: 304
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c7a8b0c21a48a1d30800000000000000
+      internalID: 4402977413471636092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_95
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 504
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20750e66fc5e8d450800000000000000
+      internalID: 6113889173102417666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_96
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 491
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 21d723baf57e563a0800000000000000
+      internalID: -6672672874799399662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_97
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 501
+        width: 20
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 31b63ab9c33bcddb0800000000000000
+      internalID: -4765737232774239469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_98
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 498
+        width: 16
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 165678cc5a3da0c80800000000000000
+      internalID: -8355633449578044063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_99
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 488
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef2a40d4e394ff8f0800000000000000
+      internalID: -504604101313256706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_100
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 414
+        width: 91
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40b164c0b887a62f0800000000000000
+      internalID: -978837430397953276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_101
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 481
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 46da3c0f4b9104880800000000000000
+      internalID: -8628868621117706908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_102
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 478
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 173be3f0318632ac0800000000000000
+      internalID: -3881144022793800847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_103
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 481
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e64d293bd9489e90800000000000000
+      internalID: -7018778813350983963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_104
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 462
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f673e8771aa209310800000000000000
+      internalID: 1409673556350875503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_105
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 433
+        width: 17
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d228f6fa810c61310800000000000000
+      internalID: 1375497948463333933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_106
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 436
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dadd4cf129cd477f0800000000000000
+      internalID: -615624728886583891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_107
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3c5ac67b954bad60800000000000000
+      internalID: 7902486505166887997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_108
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 436
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bc0f2e9109914d60800000000000000
+      internalID: 7872741855848238257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_109
+      rect:
+        serializedVersion: 2
+        x: 478
+        y: 291
+        width: 146
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5656d7510281586b0800000000000000
+      internalID: -5294799260825590427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_110
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 436
+        width: 12
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb19c7799a500a300800000000000000
+      internalID: 261215004336624059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_111
+      rect:
+        serializedVersion: 2
+        x: 1097
+        y: 308
+        width: 208
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d00076766858705e0800000000000000
+      internalID: -1943437901880164339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_112
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 423
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e9dcd138920536810800000000000000
+      internalID: 1757336418828275102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_113
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 416
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6f3c901503a8b450800000000000000
+      internalID: 6104808537049546607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_114
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 407
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2958bfe7127746590800000000000000
+      internalID: -7681884078639184494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_115
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 410
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4b237a190f464710800000000000000
+      internalID: 1677114811759143756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_116
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 410
+        width: 6
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e6c2e1534e65eae00800000000000000
+      internalID: 1057878500622347374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_117
+      rect:
+        serializedVersion: 2
+        x: 1084
+        y: 404
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a46023b490680e90800000000000000
+      internalID: -7059286224126581595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_118
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 399
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82f574b07c6eb7fb0800000000000000
+      internalID: -4648868447767797976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_119
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 335
+        width: 49
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07053c76216258f00800000000000000
+      internalID: 1118341942963556464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_120
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 322
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd966f380b28a1210800000000000000
+      internalID: 1304498736716999131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_121
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 386
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5d27a951b60fc4e00800000000000000
+      internalID: 1030462757475611349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_122
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 301
+        width: 242
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 08f3c3f75958d1980800000000000000
+      internalID: -8566544039057539200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_123
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 365
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fa92f316b3cbd9a10800000000000000
+      internalID: 1917895979550321071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_124
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 361
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 89203b90d293acac0800000000000000
+      internalID: -3834189267153517928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_125
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 343
+        width: 27
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 027b8451011533560800000000000000
+      internalID: 7292261351161378592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_126
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 343
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffac8ef1df015dab0800000000000000
+      internalID: -4984058733267465473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_127
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 343
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb1f023e7dfc0d9f0800000000000000
+      internalID: -445627836974173765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_128
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 308
+        width: 52
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f44a1b28132bfef00800000000000000
+      internalID: 1148332355718587471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_129
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 311
+        width: 36
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb82eea65a7706290800000000000000
+      internalID: -7899182194060547906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_130
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 308
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e447092f2e3b5310800000000000000
+      internalID: 1394776881874027750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_131
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 295
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4833559ebc121c9f0800000000000000
+      internalID: -450041328083586172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_132
+      rect:
+        serializedVersion: 2
+        x: 884
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 304c85be1cc5cb090800000000000000
+      internalID: -8017431248679418877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_133
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a82f95ec0faac30800000000000000
+      internalID: 4371571157379484291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_134
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fdcd878c98776e560800000000000000
+      internalID: 7342687676131761375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_135
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 304
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fe353bea13c2cd9f0800000000000000
+      internalID: -442430071493143569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_136
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 295
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad445029e9cd40310800000000000000
+      internalID: 1370462760240235738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_137
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 24
+        width: 494
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5b9681a6d8550860800000000000000
+      internalID: 7495494833684257631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_138
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 24
+        width: 548
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e87d30601e5da60b0800000000000000
+      internalID: -5734536013057632370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_139
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 24
+        width: 545
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ad43315edfbbd9720800000000000000
+      internalID: 2854644437967123674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_140
+      rect:
+        serializedVersion: 2
+        x: 1715
+        y: 24
+        width: 304
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e1d80fe61d6680530800000000000000
+      internalID: 3821417333519322398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: LUFFYDres_141
+      rect:
+        serializedVersion: 2
+        x: 2052
+        y: 24
+        width: 112
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0bf15cf5a2de312a0800000000000000
+      internalID: -6767805048756559952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

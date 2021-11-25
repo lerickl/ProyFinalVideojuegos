@@ -1,0 +1,660 @@
+fileFormatVersion: 2
+guid: 078243aba73312448ad1bf3cdbd29d9c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5544888884397296578
+    second: doff2_0
+  - first:
+      213: 9102923735119700371
+    second: doff2_1
+  - first:
+      213: 915301974850570158
+    second: doff2_2
+  - first:
+      213: -3934558259528505228
+    second: doff2_3
+  - first:
+      213: -8475153530075288022
+    second: doff2_4
+  - first:
+      213: 467788504744166476
+    second: doff2_5
+  - first:
+      213: 40720282596884748
+    second: doff2_6
+  - first:
+      213: 7718303956553715313
+    second: doff2_7
+  - first:
+      213: 6734244800523356107
+    second: doff2_8
+  - first:
+      213: -5860287538253984996
+    second: doff2_9
+  - first:
+      213: -2879386297421204316
+    second: doff2_10
+  - first:
+      213: -6765073518900389359
+    second: doff2_11
+  - first:
+      213: -2329701941847268418
+    second: doff2_12
+  - first:
+      213: 5843807253783198069
+    second: doff2_13
+  - first:
+      213: 7064887742939882873
+    second: doff2_14
+  - first:
+      213: -3415005625546485176
+    second: doff2_15
+  - first:
+      213: -4275214200651265808
+    second: doff2_16
+  - first:
+      213: 9073745860441900896
+    second: doff2_17
+  - first:
+      213: 4274817033699969352
+    second: doff2_18
+  - first:
+      213: 1621388364669571042
+    second: doff2_19
+  - first:
+      213: -3195473972880832438
+    second: doff2_20
+  - first:
+      213: -913020339992788435
+    second: doff2_21
+  - first:
+      213: -2730240518966235082
+    second: doff2_22
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: doff2_0
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 3741
+        width: 749
+        height: 732
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e34bc7e00f89c03b0800000000000000
+      internalID: -5544888884397296578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_1
+      rect:
+        serializedVersion: 2
+        x: 1611
+        y: 3741
+        width: 805
+        height: 718
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 391284168e4145e70800000000000000
+      internalID: 9102923735119700371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_2
+      rect:
+        serializedVersion: 2
+        x: 2506
+        y: 3741
+        width: 804
+        height: 569
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea78e21fb4ec3bc00800000000000000
+      internalID: 915301974850570158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_3
+      rect:
+        serializedVersion: 2
+        x: 3400
+        y: 3741
+        width: 840
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 47869b0fb14a569c0800000000000000
+      internalID: -3934558259528505228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_4
+      rect:
+        serializedVersion: 2
+        x: 4330
+        y: 3741
+        width: 791
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2ee6f684c4326a80800000000000000
+      internalID: -8475153530075288022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_5
+      rect:
+        serializedVersion: 2
+        x: 5210
+        y: 3741
+        width: 804
+        height: 636
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c448947aa2bed7600800000000000000
+      internalID: 467788504744166476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_6
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2842
+        width: 636
+        height: 680
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c01475b91eaa09000800000000000000
+      internalID: 40720282596884748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_7
+      rect:
+        serializedVersion: 2
+        x: 1498
+        y: 2842
+        width: 758
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17e40ee1e8cec1b60800000000000000
+      internalID: 7718303956553715313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_8
+      rect:
+        serializedVersion: 2
+        x: 2346
+        y: 2842
+        width: 734
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc747bd67f7d47d50800000000000000
+      internalID: 6734244800523356107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_9
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 2042
+        width: 714
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c1b09b878831caea0800000000000000
+      internalID: -5860287538253984996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_10
+      rect:
+        serializedVersion: 2
+        x: 1576
+        y: 2042
+        width: 738
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a4f41b0b6d5a08d0800000000000000
+      internalID: -2879386297421204316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_11
+      rect:
+        serializedVersion: 2
+        x: 2404
+        y: 2042
+        width: 828
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11a5a8a3a71ad12a0800000000000000
+      internalID: -6765073518900389359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_12
+      rect:
+        serializedVersion: 2
+        x: 3322
+        y: 2042
+        width: 789
+        height: 620
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: eb3e7ab5d6c3bafd0800000000000000
+      internalID: -2329701941847268418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_13
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 1131
+        width: 648
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 57939994cbf591150800000000000000
+      internalID: 5843807253783198069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_14
+      rect:
+        serializedVersion: 2
+        x: 1510
+        y: 1131
+        width: 976
+        height: 746
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97561f788f58b0260800000000000000
+      internalID: 7064887742939882873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_15
+      rect:
+        serializedVersion: 2
+        x: 2576
+        y: 1131
+        width: 871
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 842575f1a767b90d0800000000000000
+      internalID: -3415005625546485176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_16
+      rect:
+        serializedVersion: 2
+        x: 3538
+        y: 1131
+        width: 519
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f8c977e5536ba4c0800000000000000
+      internalID: -4275214200651265808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_17
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 80
+        width: 492
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0678fc909cb6ced70800000000000000
+      internalID: 9073745860441900896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_18
+      rect:
+        serializedVersion: 2
+        x: 1354
+        y: 80
+        width: 507
+        height: 902
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 849c9757173335b30800000000000000
+      internalID: 4274817033699969352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_19
+      rect:
+        serializedVersion: 2
+        x: 1951
+        y: 80
+        width: 887
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2efc41f8024508610800000000000000
+      internalID: 1621388364669571042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_20
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 80
+        width: 882
+        height: 652
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a488e6d1a5567a3d0800000000000000
+      internalID: -3195473972880832438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_21
+      rect:
+        serializedVersion: 2
+        x: 3900
+        y: 80
+        width: 793
+        height: 586
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d22060296dc4453f0800000000000000
+      internalID: -913020339992788435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: doff2_22
+      rect:
+        serializedVersion: 2
+        x: 4783
+        y: 80
+        width: 687
+        height: 699
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 630b3a3a6bc3c1ad0800000000000000
+      internalID: -2730240518966235082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

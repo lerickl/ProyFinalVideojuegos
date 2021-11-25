@@ -1,0 +1,1116 @@
+fileFormatVersion: 2
+guid: 6e5627e98bb829443a67bcbfe6e3221f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7733556274049947821
+    second: kat_0
+  - first:
+      213: 5165106528819255367
+    second: kat_1
+  - first:
+      213: 6331812638435179242
+    second: kat_2
+  - first:
+      213: -4110322612446481549
+    second: kat_3
+  - first:
+      213: -1454407928163114799
+    second: kat_4
+  - first:
+      213: 1852382593820184461
+    second: kat_5
+  - first:
+      213: -5037978385398938993
+    second: kat_6
+  - first:
+      213: -6942323994775673767
+    second: kat_7
+  - first:
+      213: -2577313161930702211
+    second: kat_8
+  - first:
+      213: -237856328425477465
+    second: kat_9
+  - first:
+      213: 6735984849841301294
+    second: kat_10
+  - first:
+      213: 3905923419175889567
+    second: kat_11
+  - first:
+      213: 7894101441046078616
+    second: kat_12
+  - first:
+      213: -4766405216201226112
+    second: kat_13
+  - first:
+      213: 7332535056170826716
+    second: kat_14
+  - first:
+      213: 4242253217832018587
+    second: kat_15
+  - first:
+      213: 705274460611407173
+    second: kat_16
+  - first:
+      213: -9019040046800080166
+    second: kat_17
+  - first:
+      213: 6270497513988640741
+    second: kat_18
+  - first:
+      213: -2492914645893554464
+    second: kat_19
+  - first:
+      213: 1832620476614564387
+    second: kat_20
+  - first:
+      213: 5023983977160081071
+    second: kat_21
+  - first:
+      213: -4659941103350962355
+    second: kat_22
+  - first:
+      213: 2621135391776654541
+    second: kat_23
+  - first:
+      213: -8476032134555129515
+    second: kat_24
+  - first:
+      213: 6942531398448275135
+    second: kat_25
+  - first:
+      213: -4865016358035101158
+    second: kat_26
+  - first:
+      213: 2838793461701695099
+    second: kat_27
+  - first:
+      213: 6819052263303772200
+    second: kat_28
+  - first:
+      213: -6974716537467989448
+    second: kat_29
+  - first:
+      213: 2950205508780592230
+    second: kat_36
+  - first:
+      213: -4751030414609779507
+    second: kat_34
+  - first:
+      213: 1908144958390642913
+    second: kat_35
+  - first:
+      213: 1184373384775885773
+    second: kat_37
+  - first:
+      213: -7218220935534590434
+    second: kat_38
+  - first:
+      213: 5068421307545867206
+    second: kat_66
+  - first:
+      213: -2695185250138139583
+    second: kat_67
+  - first:
+      213: -6245330261152414494
+    second: kat_68
+  - first:
+      213: -8028846337459257943
+    second: kat_69
+  - first:
+      213: 1410868804610904943
+    second: kat_70
+  - first:
+      213: -7044081038638775291
+    second: kat_71
+  - first:
+      213: -644552582349747888
+    second: kat_72
+  - first:
+      213: -1871471710156438251
+    second: kat_73
+  - first:
+      213: -2345009124828263003
+    second: kat_74
+  - first:
+      213: 617150121634696346
+    second: kat_75
+  - first:
+      213: -8150416235343799703
+    second: kat_76
+  - first:
+      213: 8727438403386029883
+    second: kat_77
+  - first:
+      213: 8585550450631478251
+    second: kat_78
+  - first:
+      213: 6175031661282101840
+    second: kat_79
+  - first:
+      213: 3202050113199270749
+    second: kat_80
+  - first:
+      213: -8557251801908450096
+    second: kat_81
+  - first:
+      213: 2169179657220745183
+    second: kat_82
+  - first:
+      213: -8284144550871275051
+    second: kat_83
+  - first:
+      213: -8643593448590943241
+    second: kat_84
+  - first:
+      213: 7992736788404122993
+    second: kat_85
+  - first:
+      213: -4741055111976729135
+    second: kat_86
+  - first:
+      213: 8492301703809418085
+    second: kat_87
+  - first:
+      213: 2178395711054360245
+    second: kat_88
+  - first:
+      213: 9033834397539285150
+    second: kat_89
+  - first:
+      213: -7893056567517105219
+    second: kat_90
+  - first:
+      213: 6189703264073650240
+    second: kat_91
+  - first:
+      213: -6849633859218889382
+    second: kat_92
+  - first:
+      213: -7072510104956633663
+    second: kat_93
+  - first:
+      213: 2970269110631143461
+    second: kat_94
+  - first:
+      213: 1906941748114290223
+    second: kat_95
+  - first:
+      213: -2132194256398769467
+    second: kat_96
+  - first:
+      213: 8151754544934318328
+    second: kat_97
+  - first:
+      213: 2579240715740717651
+    second: kat_98
+  - first:
+      213: -2671140378542589439
+    second: kat_99
+  - first:
+      213: -6862370487632022039
+    second: kat_100
+  - first:
+      213: -3834985560434877383
+    second: kat_101
+  - first:
+      213: -117025176541128210
+    second: kat_102
+  - first:
+      213: -3694897656589234663
+    second: kat_103
+  - first:
+      213: 1667060025109257007
+    second: kat_104
+  - first:
+      213: -2475035322701728053
+    second: kat_105
+  - first:
+      213: -9107251364992288525
+    second: kat_106
+  - first:
+      213: 1967619306202111381
+    second: kat_107
+  - first:
+      213: -8476745252976917388
+    second: kat_108
+  - first:
+      213: -3901387009532098351
+    second: kat_109
+  - first:
+      213: -4149765578654373974
+    second: kat_110
+  - first:
+      213: 7352864117113497648
+    second: kat_111
+  - first:
+      213: -4591232748184220452
+    second: kat_112
+  - first:
+      213: -6325050755476780327
+    second: kat_113
+  - first:
+      213: -2725023964543191966
+    second: kat_114
+  - first:
+      213: -7969767724512189708
+    second: kat_115
+  - first:
+      213: -3424886769383152351
+    second: kat_116
+  - first:
+      213: -7965287628599328615
+    second: kat_117
+  - first:
+      213: -1910685847786634786
+    second: kat_118
+  - first:
+      213: 7551561547315615132
+    second: kat_119
+  - first:
+      213: -1926940544646517436
+    second: kat_120
+  - first:
+      213: 7279317501365362722
+    second: kat_121
+  - first:
+      213: -951339036796818461
+    second: kat_122
+  - first:
+      213: 7726520479390830621
+    second: kat_123
+  - first:
+      213: 6024411224743211141
+    second: kat_124
+  - first:
+      213: 4438811478230194907
+    second: kat_125
+  - first:
+      213: -2542831620965897872
+    second: kat_126
+  - first:
+      213: -2853217531758219470
+    second: kat_127
+  - first:
+      213: -5213998893305928309
+    second: kat_128
+  - first:
+      213: 8258393967929586207
+    second: kat_129
+  - first:
+      213: 8445418816896709708
+    second: kat_130
+  - first:
+      213: -1271412910259008855
+    second: kat_131
+  - first:
+      213: -4527794110413807606
+    second: kat_132
+  - first:
+      213: 3277077934115633046
+    second: kat_133
+  - first:
+      213: -2743810814521336066
+    second: kat_134
+  - first:
+      213: 7131980315347147048
+    second: kat_135
+  - first:
+      213: 5607789726144437516
+    second: kat_136
+  - first:
+      213: 7901571835921911461
+    second: kat_137
+  - first:
+      213: 492931668294256236
+    second: kat_138
+  - first:
+      213: -5739048783635052359
+    second: kat_139
+  - first:
+      213: 196363703593325854
+    second: kat_140
+  - first:
+      213: 1208907390500246686
+    second: kat_141
+  - first:
+      213: -3712541858513108765
+    second: kat_142
+  - first:
+      213: 819445277107403128
+    second: kat_143
+  - first:
+      213: 4408717970061749726
+    second: kat_144
+  - first:
+      213: -5257275938831743578
+    second: kat_145
+  - first:
+      213: 6168217420720363000
+    second: kat_146
+  - first:
+      213: -4673497910885602984
+    second: kat_147
+  - first:
+      213: 6080184633467901842
+    second: kat_148
+  - first:
+      213: -321601945953911540
+    second: kat_149
+  - first:
+      213: 5359484278656628561
+    second: kat_150
+  - first:
+      213: 6343239883242912193
+    second: kat_151
+  - first:
+      213: -8830276127551664278
+    second: kat_152
+  - first:
+      213: -8492197799709063624
+    second: kat_153
+  - first:
+      213: 7534197676759670773
+    second: kat_154
+  - first:
+      213: -8854456630589672606
+    second: kat_155
+  - first:
+      213: 1416570187407250997
+    second: kat_156
+  - first:
+      213: 1268797062739110638
+    second: kat_157
+  - first:
+      213: 6130117631495762259
+    second: kat_158
+  - first:
+      213: 288933007935296200
+    second: kat_159
+  - first:
+      213: 4382725706178125971
+    second: kat_160
+  - first:
+      213: 1379104349589624157
+    second: kat_161
+  - first:
+      213: 2180622109467505749
+    second: kat_162
+  - first:
+      213: -1100090785159198989
+    second: kat_163
+  - first:
+      213: -4746675417639248994
+    second: kat_164
+  - first:
+      213: -736861128373958442
+    second: kat_165
+  - first:
+      213: 4091170802927861708
+    second: kat_166
+  - first:
+      213: 4663098663807605158
+    second: kat_167
+  - first:
+      213: 6214954500575888804
+    second: kat_168
+  - first:
+      213: -1617548944992603699
+    second: kat_169
+  - first:
+      213: -8608451923250913549
+    second: kat_170
+  - first:
+      213: -6412887122380663794
+    second: kat_171
+  - first:
+      213: -1678233842131078006
+    second: kat_172
+  - first:
+      213: 3467894874863511790
+    second: kat_173
+  - first:
+      213: 8923410973384646937
+    second: kat_174
+  - first:
+      213: -4670578837905637005
+    second: kat_175
+  - first:
+      213: 246186750697798503
+    second: kat_176
+  - first:
+      213: 196450972793951260
+    second: kat_177
+  - first:
+      213: -8974406270131774545
+    second: kat_178
+  - first:
+      213: 3007452207583482125
+    second: kat_179
+  - first:
+      213: 5293172848852506771
+    second: kat_180
+  - first:
+      213: 8503491879258540089
+    second: kat_181
+  - first:
+      213: 164226312263668134
+    second: kat_182
+  - first:
+      213: 1034344878038320067
+    second: kat_183
+  - first:
+      213: -8059645388559838634
+    second: kat_184
+  - first:
+      213: -4951330619651891929
+    second: kat_185
+  - first:
+      213: -4596997495290086471
+    second: kat_186
+  - first:
+      213: -7508590455710877723
+    second: kat_187
+  - first:
+      213: 873892873655595393
+    second: kat_188
+  - first:
+      213: -2686520308970965678
+    second: kat_189
+  - first:
+      213: 8000904669699756051
+    second: kat_190
+  - first:
+      213: 1537789214380190064
+    second: kat_191
+  - first:
+      213: -1255600479117844869
+    second: kat_192
+  - first:
+      213: 8968862469086862855
+    second: kat_193
+  - first:
+      213: -7151414157954013304
+    second: kat_194
+  - first:
+      213: 2860199225486298141
+    second: kat_195
+  - first:
+      213: -449715401999837451
+    second: kat_196
+  - first:
+      213: -8577299378379747776
+    second: kat_197
+  - first:
+      213: 6360629385986950271
+    second: kat_198
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: kat_6
+      rect:
+        serializedVersion: 2
+        x: 1412
+        y: 8580
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f824330d951851ab0800000000000000
+      internalID: -5037978385398938993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_8
+      rect:
+        serializedVersion: 2
+        x: 1386
+        y: 8353
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d728e2c955b8b3cd0800000000000000
+      internalID: -2577313161930702211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_36
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 6211
+        width: 401
+        height: 353
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 66c8445874c31f820800000000000000
+      internalID: 2950205508780592230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_34
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 6234
+        width: 214
+        height: 276
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc47b1c8203f01eb0800000000000000
+      internalID: -4751030414609779507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_35
+      rect:
+        serializedVersion: 2
+        x: 477
+        y: 6216
+        width: 361
+        height: 298
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1e8a3d8dab71b7a10800000000000000
+      internalID: 1908144958390642913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_37
+      rect:
+        serializedVersion: 2
+        x: 1466
+        y: 6220
+        width: 209
+        height: 272
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc36ef0815dbf6010800000000000000
+      internalID: 1184373384775885773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_38
+      rect:
+        serializedVersion: 2
+        x: 1785
+        y: 6223
+        width: 211
+        height: 241
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e164c2b8d4ab3db90800000000000000
+      internalID: -7218220935534590434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_97
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4958
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8f07cfa9199d02170800000000000000
+      internalID: 8151754544934318328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_105
+      rect:
+        serializedVersion: 2
+        x: 2983
+        y: 4414
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bc6b1dfbc78e6add0800000000000000
+      internalID: -2475035322701728053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_114
+      rect:
+        serializedVersion: 2
+        x: 1604
+        y: 3722
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 264f9fc5425ce2ad0800000000000000
+      internalID: -2725023964543191966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_121
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3638
+        width: 35
+        height: 33
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 220aa2433b4550560800000000000000
+      internalID: 7279317501365362722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_122
+      rect:
+        serializedVersion: 2
+        x: 1609
+        y: 3620
+        width: 31
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3eb63cabf2a2cc2f0800000000000000
+      internalID: -951339036796818461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_123
+      rect:
+        serializedVersion: 2
+        x: 3702
+        y: 3629
+        width: 26
+        height: 35
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d101fdb607d1a3b60800000000000000
+      internalID: 7726520479390830621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_125
+      rect:
+        serializedVersion: 2
+        x: 2554
+        y: 3508
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bda56d88583d99d30800000000000000
+      internalID: 4438811478230194907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_126
+      rect:
+        serializedVersion: 2
+        x: 3759
+        y: 3531
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07962bcfc1c06bcd0800000000000000
+      internalID: -2542831620965897872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_134
+      rect:
+        serializedVersion: 2
+        x: 1426
+        y: 2893
+        width: 31
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: efe949df9960ce9d0800000000000000
+      internalID: -2743810814521336066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_135
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 2897
+        width: 31
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82958595f42e9f260800000000000000
+      internalID: 7131980315347147048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_139
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 926
+        width: 454
+        height: 660
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9b88bceb98dca50b0800000000000000
+      internalID: -5739048783635052359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_142
+      rect:
+        serializedVersion: 2
+        x: 1377
+        y: 1229
+        width: 17
+        height: 31
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3e0ce8d79d66a7cc0800000000000000
+      internalID: -3712541858513108765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 677
+        width: 410
+        height: 357
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c9b8cdd017b70850800000000000000
+      internalID: 6343239883242912193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_152
+      rect:
+        serializedVersion: 2
+        x: 2050
+        y: 903
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6fcba495ae847580800000000000000
+      internalID: -8830276127551664278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_0
+      rect:
+        serializedVersion: 2
+        x: 2249
+        y: 6143
+        width: 565
+        height: 484
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35762cafa83eca490800000000000000
+      internalID: -7733556274049947821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_1
+      rect:
+        serializedVersion: 2
+        x: 2938
+        y: 6148
+        width: 575
+        height: 473
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7489255a5052ea740800000000000000
+      internalID: 5165106528819255367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: kat_2
+      rect:
+        serializedVersion: 2
+        x: 3766
+        y: 6143
+        width: 591
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aeaf14a1c0e1fd750800000000000000
+      internalID: 6331812638435179242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
